@@ -16,20 +16,25 @@
             <table>
                 <thead>
                     <tr>
-                        <th>Emoji</th>
+                        <th>
+                            <select name="translationSelector" id="translationSelector">
+                                <option value="emojiInput">Emoji</option>
+                                <option value="textInput">Text</option>
+                            </select>
+                        </th>
                         <th>Message</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td><textarea name="emoji_input" placeholder="Please type emojis here..."></textarea></td>
+                        <td><textarea name="emoji_input" placeholder="Message..."></textarea></td>
                         <td><textarea name="text_output" placeholder=""></textarea></td>
                     </tr>
                 </tbody>
             </table>
 
             <br>
-            <button type="button">Translate</button>
+            <button onclick="translate()" type="button">Translate</button>
         </main>
         <script src="main.js"></script>
     </body>
