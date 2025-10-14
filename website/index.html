@@ -12,6 +12,30 @@
     <body>
         <main>
             <h1>Emoji Translator</h1>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            <label for="translationSelector">Input Language:</label>
+                            <select name="translationSelector" id="translationSelector" onchange="updateTranslatorMode(this.value)">
+                                <option value="emojiInput" selected>Emoji</option>
+                                <option value="textInput">Text</option>
+                            </select>
+                        </th>
+                        <th><p id="outputHeader">Translated Text</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><textarea name="emoji_input" placeholder="Message..."></textarea></td>
+                        <td><textarea name="text_output" placeholder=""></textarea></td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <br>
+            <button onclick="handleTranslate()" type="button">Translate</button>
         </main>
         <script src="main.js"></script>
     </body>
