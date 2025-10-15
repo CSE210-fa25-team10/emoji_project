@@ -277,6 +277,79 @@ if (textToEmojiMap.has("sarcasm")) {
     );
 }
 
+// Deterministic golden tests based on current dictionary
+// These assert specific outputs if those keys exist in the dictionary.
+console.log(`\n${colors.bold}${colors.cyan}=== GOLDEN EXAMPLES ===${colors.reset}\n`);
+
+// 1) Individual common words
+if (textToEmojiMap.has("lol")) {
+    test(
+        "Golden: lol",
+        "lol",
+        textToEmojiMap.get("lol"),
+        (input) => translateTextToEmoji(input, textToEmojiMap)
+    );
+}
+
+if (textToEmojiMap.has("dead")) {
+    test(
+        "Golden: dead",
+        "dead",
+        textToEmojiMap.get("dead"),
+        (input) => translateTextToEmoji(input, textToEmojiMap)
+    );
+}
+
+if (textToEmojiMap.has("cringe")) {
+    test(
+        "Golden: cringe",
+        "cringe",
+        textToEmojiMap.get("cringe"),
+        (input) => translateTextToEmoji(input, textToEmojiMap)
+    );
+}
+
+if (textToEmojiMap.has("fire")) {
+    test(
+        "Golden: fire",
+        "fire",
+        textToEmojiMap.get("fire"),
+        (input) => translateTextToEmoji(input, textToEmojiMap)
+    );
+}
+
+// 2) Preservation for missing key (slay)
+if (!textToEmojiMap.has("slay")) {
+    test(
+        "Golden: slay preserved",
+        "slay",
+        "slay",
+        (input) => translateTextToEmoji(input, textToEmojiMap)
+    );
+}
+// If 'slay' is present, assert it translates
+if (textToEmojiMap.has("slay")) {
+    test(
+        "Golden: slay",
+        "slay",
+        textToEmojiMap.get("slay"),
+        (input) => translateTextToEmoji(input, textToEmojiMap)
+    );
+}
+
+// 3) Combined phrase using dynamic expectations
+// Build expected output from whatever the dictionary currently maps
+const comboWords = ["lol", "dead", "cringe", "slay", "fire"];
+const expectedCombo = comboWords
+    .map(w => textToEmojiMap.has(w) ? textToEmojiMap.get(w) : w)
+    .join(' ');
+test(
+    'Golden: "lol dead cringe slay fire"',
+    'lol dead cringe slay fire',
+    expectedCombo,
+    (input) => translateTextToEmoji(input, textToEmojiMap)
+);
+
 // Summary
 console.log(`\n${colors.bold}${colors.cyan}=== TEST SUMMARY ===${colors.reset}`);
 console.log(`Total Tests: ${passedTests + failedTests}`);

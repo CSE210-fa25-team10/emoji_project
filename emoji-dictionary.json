@@ -1126,7 +1126,7 @@
     "def": "Hundred points - perfect, approval, emphasis.",
     "context": {
       "facts": "agreeing strongly",
-      "fire": "something amazing"
+      "100": "keep it real / perfect score"
     }
   },
   "💢": {
@@ -1143,7 +1143,15 @@
       "boom": "exciting reveal or punchline"
     }
   },
-  "💫": {
+  "�": {
+    "def": "Fire - awesome, hype, very good",
+    "context": {
+      "fire": "something amazing",
+      "heat": "bringing energy or excitement",
+      "hot": "trending or attractive"
+    }
+  },
+  "�💫": {
     "def": "Dizzy - stars, confusion, amazement.",
     "context": {
       "woah": "mind-blowing or dizzy",
@@ -1520,7 +1528,8 @@
     "context": {
       "sass": "used to express attitude or indifference ('not my problem 💅')",
       "self care": "symbolizes pampering or confidence",
-      "flex": "means 'I know I'm right' or 'I did that flawlessly'"
+      "flex": "means 'I know I'm right' or 'I did that flawlessly'",
+      "slay": "serving confidence or excellence"
     }
   },
   "🤳": {

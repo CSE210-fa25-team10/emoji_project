@@ -2,6 +2,8 @@
 let emojiDictionary = {};
 let emojiToTextMap = new Map();
 let textToEmojiMap = new Map();
+// For UI: prefer a short, friendly context label (e.g., "lol") over the formal definition
+let emojiToFriendlyTextMap = new Map();
 
 // Load emoji data on page load
 async function loadEmojiData() {
@@ -12,7 +14,9 @@ async function loadEmojiData() {
         
         for (const path of paths) {
             try {
-                response = await fetch(path);
+                // Add cache-busting query and disable caching to ensure latest dictionary is loaded
+                const cacheBuster = `${path}?v=${Date.now()}`;
+                response = await fetch(cacheBuster, { cache: 'no-store' });
                 if (response.ok) {
                     console.log(`Successfully loaded emoji dictionary from: ${path}`);
                     break;
@@ -30,7 +34,24 @@ async function loadEmojiData() {
         const emojiCount = Object.keys(emojiDictionary).length;
         console.log(`Loaded ${emojiCount} emojis from dictionary`);
         buildTranslationMaps();
+        // Apply preference overrides for ambiguous terms
+        const preferenceOverrides = {
+            'awkward': '😅',
+            'fire': '🔥',
+            'dead': '💀',
+            'cringe': '😬',
+            'lol': '😂'
+        };
+        for (const [k, v] of Object.entries(preferenceOverrides)) {
+            textToEmojiMap.set(k, v);
+        }
         console.log(`Built translation maps: ${emojiToTextMap.size} emoji->text, ${textToEmojiMap.size} text->emoji`);
+        if (textToEmojiMap.has('slay')) {
+            console.log('Mapping present: "slay" →', textToEmojiMap.get('slay'));
+        }
+        if (textToEmojiMap.has('fire')) {
+            console.log('Mapping present: "fire" →', textToEmojiMap.get('fire'));
+        }
     } catch (error) {
         console.error('Error loading emoji data:', error);
         alert('Failed to load emoji dictionary. Please make sure you are running via HTTP server (not file://) and emoji-dictionary.json is accessible.');
@@ -42,6 +63,7 @@ function buildTranslationMaps() {
     // Clear existing maps
     emojiToTextMap.clear();
     textToEmojiMap.clear();
+    emojiToFriendlyTextMap.clear();
     
     // Iterate through emoji dictionary
     for (const [emoji, data] of Object.entries(emojiDictionary)) {
@@ -51,11 +73,21 @@ function buildTranslationMaps() {
         
         // Map context keys to emoji for text-to-emoji translation
         if (data.context) {
-            for (const [contextKey, contextValue] of Object.entries(data.context)) {
+            const contextKeys = Object.keys(data.context);
+            // Build text→emoji map from context keys
+            for (const contextKey of contextKeys) {
                 const key = contextKey.toLowerCase().replace(/_/g, ' ');
                 if (!textToEmojiMap.has(key)) {
                     textToEmojiMap.set(key, emoji);
                 }
+            }
+
+            // Choose a friendly label for emoji→text: pick the shortest context key for readability
+            const friendly = contextKeys
+                .map(k => k.toLowerCase().replace(/_/g, ' '))
+                .sort((a, b) => a.length - b.length)[0];
+            if (friendly) {
+                emojiToFriendlyTextMap.set(emoji, friendly);
             }
         }
         
@@ -131,8 +163,12 @@ function translateEmojiToText(inputText) {
     
     return segments.map(segment => {
         if (segment.type === 'emoji') {
-            // Look up emoji in map, fallback to original emoji if not found
-            return emojiToTextMap.get(segment.content) || segment.content;
+            // Prefer friendly context label; fallback to formal definition; then to raw emoji
+            return (
+                emojiToFriendlyTextMap.get(segment.content) ||
+                emojiToTextMap.get(segment.content) ||
+                segment.content
+            );
         }
         return segment.content;
     }).join('');

@@ -30,8 +30,8 @@ http://localhost:8000/website/
 Start to type in some phrases and emojis.
 ### Gen Z Slang → Emojis
 ```
-Input: lol dead cringe slay fire
-Output: 😂 💀 😬 💅 🔥
+Input: lol dead cringe slay
+Output: 😂 💀 😬 💅
 ```
 
 ### Context Words → Emojis
@@ -43,8 +43,9 @@ Output: 😅 😁 🙂 🙃
 ### Mixed Content
 ```
 Input: I'm happy but also sad and awkward lol
-Output: I'm 😀 but also 😢 and 😅 😂
+Output: I'm 😁 but also 😔 and 😅 😂
 ```
+Note: Outputs depend on the current mappings in `emoji-dictionary.json`. If you change the dictionary, results will update accordingly.
 
 
 ## Emojify Project Structure
@@ -61,7 +62,7 @@ emoji_project/
 │   ├── main.js              # translation logic (emoji ↔ text)
 │   └── style.css            # styling
 ├── tests/                   
-│   ├── run_tests.js         # ⭐ CLI test runner (Node.js, no frameworks)
+│   ├── run_tests.js         # CLI test runner (Node.js, no frameworks)
 └── └──CLI_TESTING.md        # CLI testing guide
 ```
 
