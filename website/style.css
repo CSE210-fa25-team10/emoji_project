@@ -33,13 +33,16 @@ img {
 }
 
 textarea {
-    width: 100%;    
-    padding: 15px;       
+    width: 100%;
+    padding: 15px;
     min-height: 150px;
-    border: none;           
-    outline: none;          
-    font-size: 16px;        
-    background-color: transparent; 
+    max-height: 300px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background-color: transparent;
+    resize: none;
+    overflow-y: auto;
 }
 
 textarea[name="text_output"]{
