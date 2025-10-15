@@ -42,7 +42,7 @@ emoji_project/
 		└── style.css              # App styles
 ```
 
-### Translation Logic
+## Translation Logic
 
 We found a public github online where the project has a file that stored all the emoji (from Apple) and their associated tags that we will use in this project for the main logic of translation.
 
