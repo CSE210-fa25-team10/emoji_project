@@ -1,0 +1,3206 @@
+{
+  "😀": {
+    "def": "grinning face - represents general happiness, friendliness, or positivity",
+    "context": {
+      "greeting": "used in casual hellos or cheerful openings",
+      "okay": "sent to sound polite or fine, even if slightly forced",
+      "dad_joke": "used sarcastically after bad jokes or cringe moments"
+    }
+  },
+  "😃": {
+    "def": "grinning face with big eyes - intense joy or excitement",
+    "context": {
+      "enthusiasm": "used to show genuine excitement",
+      "fake_energy": "can sometimes seem overly cheerful or forced in text",
+      "good_vibes": "used to hype or cheer someone up"
+    }
+  },
+  "😄": {
+    "def": "grinning face with smiling eyes - warm laughter or satisfaction",
+    "context": {
+      "friendly": "used to show friendliness or amusement",
+      "soft_laugh": "lighthearted laughter, not too strong",
+      "thankful": "used after a compliment or nice message"
+    }
+  },
+  "😁": {
+    "def": "beaming face with smiling eyes - big smile expressing excitement or pride",
+    "context": {
+      "awkward": "used to mask discomfort or awkwardness",
+      "oops": "sent after a small mistake, like 'hehe my bad'",
+      "happy": "genuine joy or excitement"
+    }
+  },
+  "😆": {
+    "def": "grinning squinting face - loud laughter, amusement, or silliness",
+    "context": {
+      "lmao": "represents laughing hard",
+      "funny": "reacting to memes or jokes",
+      "embarrassed": "sometimes used when laughing at oneself"
+    }
+  },
+  "😅": {
+    "def": "grinning face with sweat - nervous laughter or relief",
+    "context": {
+      "awkward": "used when something is uncomfortable or tense",
+      "oops": "small mistakes or clumsy moments",
+      "relief": "when a situation ends better than expected"
+    }
+  },
+  "🤣": {
+    "def": "rolling on the floor laughing - extreme laughter",
+    "context": {
+      "dead": "means 'I'm dead from laughing'",
+      "crying": "used with crying emojis to exaggerate humor",
+      "lmao": "same as 'lol' but stronger"
+    }
+  },
+  "😂": {
+    "def": "face with tears of joy - laughing so hard you're crying",
+    "context": {
+      "lol": "laughing out loud",
+      "funny": "used for genuinely funny things",
+      "irony": "used ironically now, seen as a 'boomer laugh emoji' by Gen Z",
+      "dead": "means 'too funny, I'm dead'",
+      "crying_laugh": "for memes or chaotic humor"
+    }
+  },
+  "🙂": {
+    "def": "slightly smiling face - mild happiness or politeness",
+    "context": {
+      "passive_aggressive": "used sarcastically to express annoyance",
+      "fine": "means 'I'm not fine but okay'",
+      "neutral": "used when trying to stay polite but cold"
+    }
+  },
+  "🙃": {
+    "def": "upside-down face - sarcasm or irony",
+    "context": {
+      "sarcasm": "used to show irony or passive humor",
+      "idc": "means 'whatever' or 'sure lol'",
+      "chaotic": "playfully unhinged or silly energy"
+    }
+  },
+  "🫠": {
+    "def": "melting face - embarrassment, dread, or cringe",
+    "context": {
+      "cringe": "used for secondhand embarrassment",
+      "overwhelmed": "when life feels too much",
+      "sarcasm": "ironically used for funny self-hate moments"
+    }
+  },
+  "😉": {
+    "def": "winking face - humor, teasing, or flirty tone",
+    "context": {
+      "flirty": "light teasing or flirting",
+      "joke": "used to show you're kidding",
+      "sarcastic": "adds a joking undertone to messages"
+    }
+  },
+  "😊": {
+    "def": "smiling face with smiling eyes - warmth, pride, or shy happiness",
+    "context": {
+      "thankful": "used to express gratitude or humility",
+      "sweet": "used after a compliment",
+      "humble": "modest way to show pride"
+    }
+  },
+  "😇": {
+    "def": "smiling face with halo - innocence or pretending to be good",
+    "context": {
+      "pretending": "used when someone acts innocent after mischief",
+      "sarcastic": "ironic 'who, me?' tone",
+      "good_vibes": "literal angelic or wholesome message"
+    }
+  },
+  "🥰": {
+    "def": "smiling face with hearts - deep affection, warmth, or love",
+    "context": {
+      "love": "used for loved ones, pets, or wholesome things",
+      "grateful": "expressing appreciation",
+      "cute": "reacting to adorable or romantic things"
+    }
+  },
+  "😍": {
+    "def": "smiling face with heart-eyes - admiration, love, or attraction",
+    "context": {
+      "crush": "used for someone attractive",
+      "love": "deep affection for a person or thing",
+      "fangirl": "used to hype or gush over celebs or cute stuff"
+    }
+  },
+  "🤩": {
+    "def": "star-struck - amazement, excitement, or admiration",
+    "context": {
+      "wow": "used when impressed",
+      "fangirl": "reacting to idols or cool things",
+      "shock": "in awe of something incredible"
+    }
+  },
+  "😘": {
+    "def": "face blowing a kiss - affection or flirty goodbye",
+    "context": {
+      "flirty": "used romantically or playfully",
+      "thanks": "as a sweet thank-you emoji",
+      "goodbye": "a warm sign-off in texts"
+    }
+  },
+  "😗": {
+    "def": "kissing face - neutral or friendly kiss",
+    "context": {
+      "friendly": "platonic affection",
+      "soft": "gentle or sweet reaction",
+      "neutral": "less romantic than 😘"
+    }
+  },
+  "☺️": {
+    "def": "smiling face - calm contentment or polite emotion",
+    "context": {
+      "warm": "used kindly or humbly",
+      "awkward": "used after receiving praise",
+      "sweet": "genuine warmth or gratitude"
+    }
+  },
+  "😚": {
+    "def": "kissing face with closed eyes - affectionate or loving kiss",
+    "context": {
+      "romantic": "intimate affection",
+      "goodnight": "used in romantic chats",
+      "soft": "sweet, cozy mood"
+    }
+  },
+  "😙": {
+    "def": "kissing face with smiling eyes - affectionate, gentle happiness",
+    "context": {
+      "wholesome": "warm and loving tone",
+      "cute": "light romantic gesture",
+      "thankful": "sweet appreciation"
+    }
+  },
+  "🥲": {
+    "def": "smiling face with tear - bittersweet emotion or holding it together",
+    "context": {
+      "pain": "used for emotional struggle humor",
+      "relatable": "means 'this hurts but I get it'",
+      "coping": "used to show being okay while not really okay"
+    }
+  },
+  "😋": {
+    "def": "face savoring food - deliciousness or playful satisfaction",
+    "context": {
+      "yum": "for tasty food pics or cravings",
+      "flirty": "playful or teasing tone",
+      "happy": "used to express enjoyment"
+    }
+  },
+  "😛": {
+    "def": "face with tongue - silliness or playful teasing",
+    "context": {
+      "joking": "used to lighten a message",
+      "playful": "fun, unserious tone",
+      "goofy": "represents being silly or unserious"
+    }
+  },
+  "😜": {
+    "def": "winking face with tongue - goofy fun or cheeky humor",
+    "context": {
+      "flirty": "used in teasing flirty texts",
+      "chaotic": "playful energy",
+      "joking": "used when not being serious"
+    }
+  },
+  "🤪": {
+    "def": "zany face - wild, chaotic, or unhinged energy",
+    "context": {
+      "crazy": "used to show silly energy",
+      "unhinged": "Gen Z humor for randomness",
+      "funny": "used in chaotic memes or jokes"
+    }
+  },
+  "😝": {
+    "def": "squinting face with tongue - playful silliness or intense joking",
+    "context": {
+      "prank": "used to tease",
+      "funny": "playfully mocking or joking",
+      "lighthearted": "adds humor to messages"
+    }
+  },
+  "🤑": {
+    "def": "money-mouth face - greed, success, or financial excitement",
+    "context": {
+      "rich": "used when flexing money or success",
+      "secure_bag": "Gen Z slang for making money",
+      "winning": "used for achieving or profiting"
+    }
+  },
+  "🤗": {
+    "def": "smiling face with open hands - warmth or virtual hug",
+    "context": {
+      "hug": "used to comfort or support",
+      "thankful": "grateful gesture",
+      "wholesome": "friendly and caring tone"
+    }
+  },
+  "🤭": {
+    "def": "face with hand over mouth - surprise, embarrassment, or trying not to laugh",
+    "context": {
+      "oops": "used when you accidentally spill tea or say something risky",
+      "hehe": "playful laughter, like 'omg I shouldn't laugh but I am'",
+      "secret": "used when pretending to hide gossip or mischief"
+    }
+  },
+  "🫢": {
+    "def": "face with open eyes and hand over mouth - shock or being caught off guard",
+    "context": {
+      "gasp": "used when something unexpected happens",
+      "drama": "for tea or shocking news moments",
+      "exposed": "reacting to being called out or surprised"
+    }
+  },
+  "🫣": {
+    "def": "face with peeking eye - nervous anticipation or watching something scary/cringe",
+    "context": {
+      "cringe": "used when something is hard to watch",
+      "curious": "watching drama unfold but lowkey hiding",
+      "anxious": "used for 'I can't look but I must' vibes"
+    }
+  },
+  "🤫": {
+    "def": "shushing face - telling someone to be quiet or keeping a secret",
+    "context": {
+      "secret": "used for hush-hush or confidential info",
+      "sneaky": "like 'don't tell anyone but…'",
+      "mystery": "playful 'I know something you don't' tone"
+    }
+  },
+  "🤔": {
+    "def": "thinking face - pondering, skepticism, or confusion",
+    "context": {
+      "hmm": "used when analyzing something or being sarcastic",
+      "sus": "calling something suspicious",
+      "deep_thought": "used ironically for not-so-deep stuff"
+    }
+  },
+  "🫡": {
+    "def": "saluting face - respect, acknowledgment, or ironic discipline",
+    "context": {
+      "respect": "used to salute someone's bravery or chaos",
+      "sarcasm": "used ironically for dramatic obedience",
+      "solidarity": "means 'I got you' or 'understood'"
+    }
+  },
+  "🤐": {
+    "def": "zipper-mouth face - keeping quiet or hiding something",
+    "context": {
+      "secret": "used to say 'my lips are sealed'",
+      "oops": "when you shouldn't have said something",
+      "silent": "used when avoiding drama or gossip"
+    }
+  },
+  "🤨": {
+    "def": "face with raised eyebrow - suspicion, doubt, or side-eye energy",
+    "context": {
+      "side_eye": "used when something feels off or unbelievable",
+      "judging": "used when silently judging someone",
+      "skeptic": "calling out lies or nonsense"
+    }
+  },
+  "😐": {
+    "def": "neutral face - indifference or lack of emotion",
+    "context": {
+      "meh": "used for no reaction or boredom",
+      "unimpressed": "flat response to drama or jokes",
+      "done": "emotionally drained or over it"
+    }
+  },
+  "😑": {
+    "def": "expressionless face - blank annoyance or quiet irritation",
+    "context": {
+      "dead_inside": "used for emotional numbness or burnout",
+      "disbelief": "when you can't even react anymore",
+      "same": "relatable exhaustion"
+    }
+  },
+  "😶": {
+    "def": "face without mouth - speechless or holding back words",
+    "context": {
+      "speechless": "used when something's too shocking",
+      "no_comment": "avoiding controversy or gossip",
+      "quiet": "when you literally can't say anything"
+    }
+  },
+  "🫥": {
+    "def": "dotted line face - feeling invisible, fading away, or anxious",
+    "context": {
+      "invisible": "used when feeling unnoticed or ghosted",
+      "awkward": "when you want to disappear from embarrassment",
+      "lowkey": "trying not to draw attention"
+    }
+  },
+  "😶‍🌫️": {
+    "def": "face in clouds - confusion, brain fog, or dissociation",
+    "context": {
+      "lost": "mentally elsewhere or zoning out",
+      "foggy": "used when overwhelmed or unfocused",
+      "vibes": "represents dreamy or detached mood"
+    }
+  },
+  "😏": {
+    "def": "smirking face - smugness, flirtation, or mischief",
+    "context": {
+      "flirty": "used in teasing or confident tone",
+      "sassy": "cocky or knowing energy",
+      "sneaky": "playfully implying something suggestive"
+    }
+  },
+  "😒": {
+    "def": "unamused face - irritation, boredom, or passive annoyance",
+    "context": {
+      "annoyed": "used for eye-roll-worthy things",
+      "over_it": "done with someone's nonsense",
+      "sarcastic": "paired with dry or cutting replies"
+    }
+  },
+  "🙄": {
+    "def": "face with rolling eyes - exasperation or extreme annoyance",
+    "context": {
+      "ugh": "when something's dumb or cringe",
+      "judging": "for obvious stupidity or drama",
+      "sassy": "Gen Z's default for 'pls be serious'"
+    }
+  },
+  "😬": {
+    "def": "grimacing face - awkwardness or secondhand embarrassment",
+    "context": {
+      "awk": "used for uncomfortable situations",
+      "oops": "mild regret or social blunder",
+      "yikes": "reacting to something cringe"
+    }
+  },
+  "😮‍💨": {
+    "def": "face exhaling - relief, frustration, or exhaustion",
+    "context": {
+      "relieved": "after stress or near-disaster moment",
+      "tired": "fed up or sighing energy",
+      "done": "mentally over the situation"
+    }
+  },
+  "🤥": {
+    "def": "lying face - dishonesty, exaggeration, or obvious bluffing",
+    "context": {
+      "liar": "used when someone's clearly capping",
+      "sarcastic": "pretending to believe something false",
+      "exposed": "calling out someone's fake story"
+    }
+  },
+  "🫨": {
+    "def": "shaking face - shock, disbelief, or emotional overwhelm",
+    "context": {
+      "shook": "used when something's unbelievably wild",
+      "dramatic": "for chaotic or meme-level surprise",
+      "overwhelmed": "physically or emotionally shaken"
+    }
+  },
+  "😌": {
+    "def": "relieved face - calm satisfaction or peacefulness",
+    "context": {
+      "relaxed": "used after tension resolves",
+      "bliss": "feeling unbothered or zen",
+      "content": "emotionally stable and okay"
+    }
+  },
+  "😔": {
+    "def": "pensive face - sadness, reflection, or emotional fatigue",
+    "context": {
+      "sad": "used when disappointed or hurt",
+      "deep": "used ironically for emotional captions",
+      "down": "quiet emotional tone"
+    }
+  },
+  "😪": {
+    "def": "sleepy face - tiredness, exhaustion, or low energy",
+    "context": {
+      "sleepy": "literally tired or lazy mood",
+      "bored": "used to show disinterest",
+      "done": "too tired to care anymore"
+    }
+  },
+  "🤤": {
+    "def": "drooling face - desire, hunger, or admiration",
+    "context": {
+      "food": "used when something looks delicious",
+      "attraction": "flirty or thirsty energy",
+      "craving": "wanting something badly"
+    }
+  },
+  "😴": {
+    "def": "sleeping face - tired, boring, or done",
+    "context": {
+      "sleep": "literally bedtime emoji",
+      "bored": "used sarcastically for 'this is boring'",
+      "peace": "calm and resting vibe"
+    }
+  },
+  "😷": {
+    "def": "face with medical mask - sickness, caution, or avoiding germs",
+    "context": {
+      "sick": "used when feeling ill",
+      "pandemic": "post-2020 default for avoiding drama/people",
+      "ew": "metaphor for avoiding toxicity"
+    }
+  },
+  "🤒": {
+    "def": "face with thermometer - feeling sick or unwell",
+    "context": {
+      "sick": "literal illness or exhaustion",
+      "drained": "mentally or emotionally tired",
+      "excuse": "used playfully to get out of plans"
+    }
+  },
+  "🤕": {
+    "def": "face with head bandage - injury, hurt feelings, or struggle",
+    "context": {
+      "hurt": "used for emotional or physical pain",
+      "rough_day": "after a bad experience",
+      "oops": "recovering from a chaotic situation"
+    }
+  },
+  "🤢": {
+    "def": "nauseated face - expresses disgust, queasiness, or feeling sick (tags: sick, barf, disgusted)",
+    "context": {
+      "ew": "used when something is gross or revolting",
+      "cringe": "used when something feels nauseating or embarrassingly bad",
+      "sick": "literal or hyperbolic: 'I'm sick of this'"
+    }
+  },
+  "🤮": {
+    "def": "face vomiting - extreme disgust or revulsion (tags: barf, sick)",
+    "context": {
+      "throw_up": "used when something's so bad you feel physically sick",
+      "nah": "strong rejection or disgust",
+      "over_it": "used to show you can't handle more"
+    }
+  },
+  "🤧": {
+    "def": "sneezing face - indicates sickness, allergy, or being under the weather (tags: achoo, sick)",
+    "context": {
+      "bless_you": "playful “achoo” tone in messages",
+      "sick_mode": "used when someone feels awful or unwell",
+      "sniffles": "mild sick or complaint"
+    }
+  },
+  "🥵": {
+    "def": "hot face - overheating, intense heat, or being flustered (tags: heat, sweating)",
+    "context": {
+      "hot": "someone or something is attractive or intense",
+      "sweaty": "stressful situation or trying hard",
+      "I'm dying": "figurative exaggeration of heat or intensity"
+    }
+  },
+  "🥶": {
+    "def": "cold face - freezing, very cold, or emotionally cold (tags: freezing, ice)",
+    "context": {
+      "cold": "lack of warmth or emotional distance",
+      "freeze": "shock or stunned emotion",
+      "icy": "cool or ruthless vibe"
+    }
+  },
+  "🥴": {
+    "def": "woozy face - dizziness, confusion, disorientation, or intoxication (tags: groggy)",
+    "context": {
+      "drunk": "tipsy or intoxicated tone",
+      "confused": "when something's hard to understand",
+      "bleh": "general off or not feeling right"
+    }
+  },
+  "😵": {
+    "def": "face with crossed-out eyes - disorientation, unconsciousness, or extreme shock (tags: none)",
+    "context": {
+      "dead": "used to exaggerate being overwhelmed or defeated",
+      "blown": "mind = blown or shocked",
+      "zzz": "extreme fatigue or losing consciousness"
+    }
+  },
+  "😵‍💫": {
+    "def": "face with spiral eyes - confusion, dizziness, mental overwhelm (tags: none)",
+    "context": {
+      "brain_fry": "mental overload or burnout",
+      "lost": "when emotions or thoughts are scrambled",
+      "too_much": "used when life is chaotic"
+    }
+  },
+  "🤯": {
+    "def": "exploding head - mind-blowing, astonishment, or being overwhelmed (tags: mind, blown)",
+    "context": {
+      "wow": "used when something is unexpectedly amazing or shocking",
+      "mind_blown": "strong reaction to something surprising",
+      "cannot": "used when you can't even respond"
+    }
+  },
+  "🤠": {
+    "def": "cowboy hat face - playful, adventurous, or silly “western” vibe (tags: none)",
+    "context": {
+      "yee_haw": "joking western energy",
+      "funny": "used playfully or ironically",
+      "wild": "used when doing something bold or goofy"
+    }
+  },
+  "🥳": {
+    "def": "partying face - celebration, fun, and party mood (tags: celebration, birthday)",
+    "context": {
+      "party": "used when congratulating or celebrating",
+      "turn_up": "getting hyped or festive",
+      "yay": "excited or cheerful expression"
+    }
+  },
+  "🥸": {
+    "def": "disguised face - incognito, sneaky, or masking identity (tags: none)",
+    "context": {
+      "undercover": "used when hiding something",
+      "lowkey": "doing stuff quietly, incognito",
+      "spy_mode": "playful mysterious vibe"
+    }
+  },
+  "😎": {
+    "def": "smiling face with sunglasses - cool, confident, or relaxed (tags: cool)",
+    "context": {
+      "cool": "used to show approval or swag",
+      "boss": "confident, in charge",
+      "chill": "relaxed or laid-back energy"
+    }
+  },
+  "🤓": {
+    "def": "nerd face - nerdy, studious, or geeky vibe (tags: geek, glasses)",
+    "context": {
+      "study_mode": "used when doing work or being serious",
+      "brainy": "intellectually proud or joke",
+      "dork": "self-deprecating fun"
+    }
+  },
+  "🧐": {
+    "def": "face with monocle - scrutiny, curiosity, or judgment (tags: none)",
+    "context": {
+      "inspect": "used when analyzing or closely examining",
+      "judge": "critique or side-eye energy",
+      "interesting": "used to show intrigue"
+    }
+  },
+  "😕": {
+    "def": "confused face - puzzlement, uncertainty, or questioning (tags: none)",
+    "context": {
+      "huh": "used when not understanding",
+      "lost": "feeling directionless or unsure",
+      "wtf": "stronger reaction to confusing things"
+    }
+  },
+  "🫤": {
+    "def": "face with diagonal mouth - mixed feelings, weird vibe, or indecision (tags: confused)",
+    "context": {
+      "meh": "ambivalent or neutral",
+      "idk": "I don't know or unsure",
+      "odd": "something feels off"
+    }
+  },
+  "😟": {
+    "def": "worried face - anxiety, concern, or unease (tags: nervous)",
+    "context": {
+      "anxious": "used for nervous thoughts or doubts",
+      "uh-oh": "anticipating bad news",
+      "stressed": "feeling pressure or worry"
+    }
+  },
+  "🙁": {
+    "def": "slightly frowning face - mild sadness or disappointment (tags: none)",
+    "context": {
+      "sad": "used when feeling down but not devastated",
+      "let_down": "when expectations fail",
+      "disappointed": "gentle displeasure"
+    }
+  },
+  "☹️": {
+    "def": "frowning face - unhappy or displeased (tags: none)",
+    "context": {
+      "sad": "used for genuine unhappiness",
+      "displeased": "not satisfied",
+      "mood": "reflects negative emotion"
+    }
+  },
+  "😮": {
+    "def": "face with open mouth - surprise, shock, or amazement (tags: surprise, impressed, wow)",
+    "context": {
+      "oh": "used when speechless or surprised",
+      "wow": "for impressive or shocking things",
+      "gasp": "mild shock"
+    }
+  },
+  "😯": {
+    "def": "hushed face - quiet surprise or speechlessness (tags: silence, speechless)",
+    "context": {
+      "ohh": "soft surprise",
+      "silent": "no words, stunned",
+      "shh": "quiet reaction"
+    }
+  },
+  "😲": {
+    "def": "astonished face - strong awe or shock (tags: amazed, gasp)",
+    "context": {
+      "OMG": "extreme surprise",
+      "jaw_drop": "used when blown away",
+      "holy": "used in exclamations"
+    }
+  },
+  "😳": {
+    "def": "flushed face - embarrassment, shock, or surprise (tags: none)",
+    "context": {
+      "blush": "feeling embarrassed or flustered",
+      "oops": "after a misunderstanding or mistake",
+      "shy": "used in timid messages"
+    }
+  },
+  "🥺": {
+    "def": "pleading face - begging, puppy eyes, emotional appeal (tags: puppy, eyes)",
+    "context": {
+      "please": "asking for favor or sympathy",
+      "cute": "used to make a request sweeter",
+      "soft_mode": "emotional tone, gentle asking"
+    }
+  },
+  "🥹": {
+    "def": "face holding back tears - overwhelmed, moved, or touched (tags: tears, gratitude)",
+    "context": {
+      "thank_you": "used in grateful messages",
+      "emotional": "deep feelings or reaction",
+      "heart": "used when heartstrings are pulled"
+    }
+  },
+  "😦": {
+    "def": "frowning face with open mouth - concern, shock or dismay (tags: none)",
+    "context": {
+      "uh-oh": "something bad just revealed",
+      "worried": "genuine alarm or concern",
+      "yikes": "mild shock or disapproval"
+    }
+  },
+  "😧": {
+    "def": "anguished face - distress, anguish or emotional pain (tags: stunned)",
+    "context": {
+      "pain": "emotional or mental hurt",
+      "awful": "bad news or situation",
+      "help": "seeking sympathy or comfort"
+    }
+  },
+  "😨": {
+    "def": "fearful face - fear, panic, or anxiety (tags: scared, shocked, oops)",
+    "context": {
+      "scared": "used for fear or alarm",
+      "omg": "intensified surprise",
+      "nervous": "anxious anticipation"
+    }
+  },
+  "😰": {
+    "def": "anxious face with sweat - stress, worry, or tension (tags: nervous)",
+    "context": {
+      "nervous": "through texts or before big events",
+      "pressure": "feeling overwhelmed",
+      "yikes": "when anxiety peaks"
+    }
+  },
+  "😥": {
+    "def": "sad but relieved face - sorrow mixed with relief (tags: phew, sweat, nervous)",
+    "context": {
+      "phew": "when a tense moment ends okay",
+      "sad": "still emotional despite relief",
+      "close_call": "used after escape from trouble"
+    }
+  },
+  "😢": {
+    "def": "crying face - sadness, tears, or sorrow (tags: sad, tear)",
+    "context": {
+      "sad": "expressing genuine sadness or empathy",
+      "tears": "crying or emotional release",
+      "mood": "used to reflect emotional state"
+    }
+  },
+  "😭": {
+    "def": "loudly crying face - intense crying or overwhelming emotion (tags: sad, cry, bawling)",
+    "context": {
+      "lmao": "used ironically to respond to something hilarious",
+      "dead": "I'm dying from laughter or emotion",
+      "crying": "used genuinely for sadness or frustration"
+    }
+  },
+  "😫": {
+    "def": "Tired face - exhausted, upset, whiny.",
+    "context": {
+      "same": "overdramatic frustration or boredom",
+      "i can't anymore": "emotionally done or overwhelmed",
+      "ugh": "tired of everything, mentally drained"
+    }
+  },
+  "🥱": {
+    "def": "Yawning face - sleepy, bored.",
+    "context": {
+      "boring": "when something or someone is dull",
+      "not impressed": "pretending to yawn to show disinterest"
+    }
+  },
+  "😤": {
+    "def": "Face with steam from nose - pride, determination, frustration.",
+    "context": {
+      "flex": "showing off or feeling powerful",
+      "mad but confident": "annoyed but in control"
+    }
+  },
+  "😡": {
+    "def": "Enraged face - extreme anger.",
+    "context": {
+      "fuming": "really mad online",
+      "angry reacting": "playful fake anger or frustration"
+    }
+  },
+  "😠": {
+    "def": "Angry face - irritation, annoyance.",
+    "context": {
+      "mad": "mild frustration",
+      "upset": "annoyed or disappointed tone"
+    }
+  },
+  "🤬": {
+    "def": "Face with symbols on mouth - swearing, rage, foul language.",
+    "context": {
+      "cussing": "cursing someone out",
+      "angry rant": "seriously mad and done with something"
+    }
+  },
+  "😈": {
+    "def": "Smiling face with horns - mischievous, naughty, playful evil.",
+    "context": {
+      "flirty": "suggestive or teasing tone",
+      "up to no good": "plotting mischief"
+    }
+  },
+  "👿": {
+    "def": "Angry face with horns - evil, mad, mean.",
+    "context": {
+      "angry": "serious rage",
+      "villain mode": "playful dark energy or confidence"
+    }
+  },
+  "💀": {
+    "def": "Skull - death, danger, poison.",
+    "context": {
+      "dead": "something is so funny it 'killed' them (Gen Z humor)",
+      "i'm dead": "laughing uncontrollably"
+    }
+  },
+  "☠️": {
+    "def": "Skull and crossbones - lethal, pirate, danger symbol.",
+    "context": {
+      "rip": "something so funny or cringe it 'killed' them",
+      "danger": "used for dark humor"
+    }
+  },
+  "💩": {
+    "def": "Pile of poo - crap, gross, silly humor.",
+    "context": {
+      "this sucks": "bad situation or poor quality",
+      "funny": "lighthearted joke or playful insult"
+    }
+  },
+  "🤡": {
+    "def": "Clown face - foolishness, clownish behavior.",
+    "context": {
+      "clowning": "acting stupid or embarrassing yourself",
+      "you're a clown": "mocking someone's bad decision"
+    }
+  },
+  "👹": {
+    "def": "Ogre - scary monster, anger, fierceness.",
+    "context": {
+      "monster energy": "overreacting or intense behavior",
+      "mean": "playfully calling someone scary or dramatic"
+    }
+  },
+  "👺": {
+    "def": "Goblin - Japanese goblin, mischief.",
+    "context": {
+      "gremlin mode": "chaotic, unhinged behavior",
+      "troll": "online troublemaker"
+    }
+  },
+  "👻": {
+    "def": "Ghost - spooky, Halloween, playful spirit.",
+    "context": {
+      "ghosting": "cutting off communication suddenly",
+      "boo": "playful or flirtatious greeting"
+    }
+  },
+  "👽": {
+    "def": "Alien - UFO, strange, weird.",
+    "context": {
+      "i feel alien": "feeling out of place or quirky",
+      "weirdcore": "used to express being different"
+    }
+  },
+  "👾": {
+    "def": "Alien monster - retro video game creature, playful.",
+    "context": {
+      "gamer vibe": "retro aesthetic or online fun",
+      "quirky": "used in meme irony"
+    }
+  },
+  "🤖": {
+    "def": "Robot - emotionless, mechanical.",
+    "context": {
+      "no feelings": "feeling detached or drained",
+      "tech vibe": "used ironically for emotionless responses"
+    }
+  },
+  "😺": {
+    "def": "Grinning cat - happy cat face.",
+    "context": {
+      "cute": "lighthearted joy",
+      "friendly": "playful enthusiasm"
+    }
+  },
+  "😸": {
+    "def": "Grinning cat with smiling eyes - cheerful cat expression.",
+    "context": {
+      "positive": "happy and wholesome",
+      "yay": "expressing happiness with cat energy"
+    }
+  },
+  "😹": {
+    "def": "Cat with tears of joy - laughing cat.",
+    "context": {
+      "lol": "funny moment",
+      "cute funny": "adorably hilarious reaction"
+    }
+  },
+  "😻": {
+    "def": "Smiling cat with heart-eyes - love, admiration.",
+    "context": {
+      "obsessed": "loving something hard",
+      "adorable": "cute overload"
+    }
+  },
+  "😼": {
+    "def": "Cat with wry smile - smug or teasing.",
+    "context": {
+      "sassy": "playful attitude",
+      "flirty": "light teasing tone"
+    }
+  },
+  "😽": {
+    "def": "Kissing cat - affection, love.",
+    "context": {
+      "mwah": "sending kisses playfully",
+      "sweet": "loving expression"
+    }
+  },
+  "🙀": {
+    "def": "Weary cat - shock, horror, scared.",
+    "context": {
+      "omg": "dramatic reaction",
+      "can't handle": "overwhelmed or surprised"
+    }
+  },
+  "😿": {
+    "def": "Crying cat - sadness, tears.",
+    "context": {
+      "sad cat energy": "used for mock sadness",
+      "emo": "cute version of sadness"
+    }
+  },
+  "😾": {
+    "def": "Pouting cat - disapproval or annoyance.",
+    "context": {
+      "grumpy": "playful irritation",
+      "mad": "annoyed but soft"
+    }
+  },
+  "🙈": {
+    "def": "See-no-evil monkey - embarrassed, avoiding seeing something.",
+    "context": {
+      "can't look": "embarrassed reaction",
+      "oops": "used after a mistake"
+    }
+  },
+  "🙉": {
+    "def": "Hear-no-evil monkey - blocking out noise, denial.",
+    "context": {
+      "lalala": "pretending not to hear drama",
+      "no negativity": "used to ignore bad vibes"
+    }
+  },
+  "🙊": {
+    "def": "Speak-no-evil monkey - keeping a secret, embarrassed to speak.",
+    "context": {
+      "oops i said it": "accidentally revealing gossip",
+      "can't say": "shy or flustered response"
+    }
+  },
+  "💌": {
+    "def": "Love letter - romance, affection, message of love.",
+    "context": {
+      "sending love": "sweet or flirty text",
+      "crush": "used in romantic tone"
+    }
+  },
+  "💘": {
+    "def": "Heart with arrow - struck by love, cupid.",
+    "context": {
+      "crushing": "falling for someone",
+      "in love": "deep affection"
+    }
+  },
+  "💝": {
+    "def": "Heart with ribbon - gift of love, affection.",
+    "context": {
+      "special": "for someone dear",
+      "valentine": "used around romantic gifting"
+    }
+  },
+  "💖": {
+    "def": "Sparkling heart - bright, joyful love.",
+    "context": {
+      "bestie": "used between friends lovingly",
+      "glam love": "extra sparkly affection"
+    }
+  },
+  "💗": {
+    "def": "Growing heart - expanding love or warmth.",
+    "context": {
+      "so sweet": "heartwarming reaction",
+      "emotional": "feeling touched"
+    }
+  },
+  "💓": {
+    "def": "Beating heart - love, excitement.",
+    "context": {
+      "omg i love it": "excitement or thrill",
+      "in love": "deep affection"
+    }
+  },
+  "💞": {
+    "def": "Revolving hearts - mutual love, connection.",
+    "context": {
+      "together": "romantic or friendship bond",
+      "loop of love": "playful affection"
+    }
+  },
+  "💕": {
+    "def": "Two hearts - affection, friendship, love.",
+    "context": {
+      "besties": "used among close friends",
+      "love vibes": "soft positive feeling"
+    }
+  },
+  "💟": {
+    "def": "Heart decoration - decorative love symbol.",
+    "context": {
+      "aesthetic": "used for cute text tone",
+      "pretty": "soft emotion marker"
+    }
+  },
+  "❣️": {
+    "def": "Heart exclamation - emphatic affection.",
+    "context": {
+      "love this": "strong approval or excitement",
+      "yes!!": "expressive support"
+    }
+  },
+  "💔": {
+    "def": "Broken heart - heartbreak, sadness.",
+    "context": {
+      "sad": "emotional pain or breakup",
+      "ouch": "hurt feelings"
+    }
+  },
+  "❤️‍🔥": {
+    "def": "Heart on fire - passionate love, intensity.",
+    "context": {
+      "hot": "intense attraction",
+      "obsessed": "wild excitement"
+    }
+  },
+  "❤️‍🩹": {
+    "def": "Mending heart - healing from heartbreak.",
+    "context": {
+      "self care": "emotional recovery",
+      "getting better": "moving on from pain"
+    }
+  },
+  "❤️": {
+    "def": "Red heart - classic love, passion, affection.",
+    "context": {
+      "love": "strong emotion or care",
+      "thanks": "appreciation or gratitude"
+    }
+  },
+  "🩷": {
+    "def": "Pink heart - soft love, sweetness, positivity.",
+    "context": {
+      "cutie": "friendly affection",
+      "girl vibe": "soft feminine tone"
+    }
+  },
+  "🧡": {
+    "def": "Orange heart - warmth, friendship, energy.",
+    "context": {
+      "comfort": "friendly or caring tone",
+      "support": "platonic love"
+    }
+  },
+  "💛": {
+    "def": "Yellow heart - happiness, friendship.",
+    "context": {
+      "best friend": "used between close friends",
+      "positive energy": "cheerful tone"
+    }
+  },
+  "💚": {
+    "def": "Green heart - growth, health, envy.",
+    "context": {
+      "envy": "jealousy or ironic shade",
+      "earthy": "eco or wholesome tone"
+    }
+  },
+  "💙": {
+    "def": "Blue heart - calm, loyalty, peace.",
+    "context": {
+      "trust": "stable affection",
+      "support": "comforting tone"
+    }
+  },
+  "🩵": {
+    "def": "Light blue heart - softness, serenity.",
+    "context": {
+      "calm vibe": "peaceful energy",
+      "sweet": "gentle affection"
+    }
+  },
+  "💜": {
+    "def": "Purple heart - compassion, admiration.",
+    "context": {
+      "loyalty": "supportive tone",
+      "luxury love": "stylish affection"
+    }
+  },
+  "🤎": {
+    "def": "Brown heart - stability, comfort, warmth.",
+    "context": {
+      "cozy": "warm friendly vibe",
+      "neutral": "aesthetic expression"
+    }
+  },
+  "🖤": {
+    "def": "Black heart - dark humor, sorrow, goth aesthetic.",
+    "context": {
+      "dark love": "edgy affection",
+      "emo": "sad but stylish tone"
+    }
+  },
+  "🩶": {
+    "def": "Grey heart - neutrality, calm affection.",
+    "context": {
+      "meh": "neutral emotion",
+      "lowkey love": "subtle affection"
+    }
+  },
+  "🤍": {
+    "def": "White heart - purity, sincerity, peace.",
+    "context": {
+      "wholesome": "kind and soft energy",
+      "innocent love": "pure affection"
+    }
+  },
+  "💋": {
+    "def": "Kiss mark - lipstick print, affection.",
+    "context": {
+      "flirty": "sending kisses",
+      "mwah": "playful love tone"
+    }
+  },
+  "💯": {
+    "def": "Hundred points - perfect, approval, emphasis.",
+    "context": {
+      "facts": "agreeing strongly",
+      "fire": "something amazing"
+    }
+  },
+  "💢": {
+    "def": "Anger symbol - frustration, anger burst.",
+    "context": {
+      "mad": "cartoon-style anger",
+      "annoyed": "playful irritation"
+    }
+  },
+  "💥": {
+    "def": "Collision - explosion, impact, surprise.",
+    "context": {
+      "mind blown": "shocked or impressed",
+      "boom": "exciting reveal or punchline"
+    }
+  },
+  "💫": {
+    "def": "Dizzy - stars, confusion, amazement.",
+    "context": {
+      "woah": "mind-blowing or dizzy",
+      "lightheaded": "overwhelmed"
+    }
+  },
+  "💦": {
+    "def": "Sweat droplets - water, exertion, movement.",
+    "context": {
+      "thirsty": "sexual innuendo",
+      "workout": "literal sweat or effort"
+    }
+  },
+  "💨": {
+    "def": "Dashing away - speed, wind, leaving quickly.",
+    "context": {
+      "gone": "disappearing fast",
+      "running": "escaping situation"
+    }
+  },
+  "🕳️": {
+    "def": "Hole - gap, void, emptiness.",
+    "context": {
+      "falling in": "self-deprecating humor",
+      "embarrassed": "want to disappear"
+    }
+  },
+  "💬": {
+    "def": "Speech balloon - conversation, chat, comment.",
+    "context": {
+      "talking": "starting convo",
+      "say less": "used to mark a statement"
+    }
+  },
+  "👁️‍🗨️": {
+    "def": "Eye in speech bubble - awareness, witnessing.",
+    "context": {
+      "watching": "seeing drama unfold",
+      "i saw that": "calling out something subtle"
+    }
+  },
+  "🗨️": {
+    "def": "left speech bubble",
+    "context": {
+      "chat": "represents conversation or dialogue",
+      "comment": "used for comments or online replies"
+    }
+  },
+  "🗯️": {
+    "def": "right anger bubble",
+    "context": {
+      "rant": "represents shouting or venting",
+      "drama": "used in group chats for arguments or heated moments"
+    }
+  },
+  "💭": {
+    "def": "thought balloon",
+    "context": {
+      "thinking": "used when someone is reflecting or daydreaming",
+      "hmm": "used to imply deep thought or second guessing"
+    }
+  },
+  "💤": {
+    "def": "ZZZ (sleeping symbol)",
+    "context": {
+      "bored": "used to show disinterest in a convo",
+      "sleep": "literally being sleepy",
+      "dead chat": "means conversation has gone quiet"
+    }
+  },
+  "👋": {
+    "def": "waving hand",
+    "context": {
+      "hi": "greeting someone casually",
+      "bye": "saying goodbye playfully",
+      "ghosting": "Gen Z use it to mean 'I'm leaving the chat' or 'I'm done with you'"
+    }
+  },
+  "🤚": {
+    "def": "raised back of hand",
+    "context": {
+      "stop": "pause or halt gesture",
+      "hi": "less common variant of a greeting wave"
+    }
+  },
+  "🖐️": {
+    "def": "hand with fingers splayed",
+    "context": {
+      "stop": "stronger version of 'hold up'",
+      "hi": "excited hello gesture"
+    }
+  },
+  "✋": {
+    "def": "raised hand",
+    "context": {
+      "stop": "halt or rejection",
+      "highfive": "celebration or agreement",
+      "nah": "used dismissively ('nope, not me')"
+    }
+  },
+  "🖖": {
+    "def": "vulcan salute",
+    "context": {
+      "nerdy": "Star Trek reference, 'live long and prosper'",
+      "peace": "used sarcastically or playfully to say goodbye"
+    }
+  },
+  "🫱": {
+    "def": "rightwards hand",
+    "context": {
+      "pointing": "directs attention to text or emoji next to it",
+      "flirty": "used with 💅 or 😏 to suggest sass or confidence"
+    }
+  },
+  "🫲": {
+    "def": "leftwards hand",
+    "context": {
+      "pointing": "used to indicate emphasis or contrast",
+      "handing": "can mean 'take this' or 'I'm giving you something'"
+    }
+  },
+  "🫳": {
+    "def": "palm down hand",
+    "context": {
+      "assertive": "used to show dominance or authority",
+      "push": "symbolic of rejecting or pushing away something"
+    }
+  },
+  "🫴": {
+    "def": "palm up hand",
+    "context": {
+      "asking": "represents asking for something (money, attention)",
+      "offering": "symbolizes giving or presenting something"
+    }
+  },
+  "🫷": {
+    "def": "leftwards pushing hand",
+    "context": {
+      "push away": "metaphor for rejecting negativity or someone annoying",
+      "boundaries": "used to show 'stay back'"
+    }
+  },
+  "🫸": {
+    "def": "rightwards pushing hand",
+    "context": {
+      "pushing forward": "used for motivation or moving on",
+      "nope": "rejection or dismissal gesture"
+    }
+  },
+  "👌": {
+    "def": "OK hand",
+    "context": {
+      "perfect": "means 'that's perfect' or 'good job'",
+      "sarcastic": "can mean 'sure, whatever' depending on tone",
+      "sus": "sometimes meme'd as the 'sus' emoji (Among Us culture)"
+    }
+  },
+  "🤌": {
+    "def": "pinched fingers",
+    "context": {
+      "italian": "represents 'what do you mean?' hand gesture",
+      "sass": "used to emphasize dramatic speech"
+    }
+  },
+  "🤏": {
+    "def": "pinching hand",
+    "context": {
+      "small": "used to say 'just a little bit'",
+      "shade": "can mean 'barely acceptable' or 'subtle insult'"
+    }
+  },
+  "✌️": {
+    "def": "victory hand",
+    "context": {
+      "peace": "classic peace sign",
+      "bye": "used to say goodbye playfully",
+      "ironic": "used sarcastically after awkward texts"
+    }
+  },
+  "🤞": {
+    "def": "crossed fingers",
+    "context": {
+      "hopeful": "used when wishing luck",
+      "manifest": "Gen Z use for 'manifesting something good'"
+    }
+  },
+  "🫰": {
+    "def": "hand with index finger and thumb crossed",
+    "context": {
+      "money": "K-pop inspired meaning 'money' or 'finger heart'",
+      "love": "used as a cute love or appreciation symbol"
+    }
+  },
+  "🤟": {
+    "def": "love-you gesture",
+    "context": {
+      "ILY": "means 'I love you' in sign language",
+      "friendly": "used casually between friends"
+    }
+  },
+  "🤘": {
+    "def": "sign of the horns",
+    "context": {
+      "rock": "represents rock or heavy metal culture",
+      "cool": "used to mean 'awesome' or 'let's go!'"
+    }
+  },
+  "🤙": {
+    "def": "call me hand",
+    "context": {
+      "call me": "literally means 'call me'",
+      "chill": "used in surfer slang as 'hang loose'"
+    }
+  },
+  "👈": {
+    "def": "backhand index pointing left",
+    "context": {
+      "point left": "used to direct to text or emoji on the left",
+      "flirty": "used before a suggestive emoji"
+    }
+  },
+  "👉": {
+    "def": "backhand index pointing right",
+    "context": {
+      "point right": "used for emphasis or directing attention",
+      "combo": "often paired with 👈 around text like 👉this👈"
+    }
+  },
+  "👆": {
+    "def": "backhand index pointing up",
+    "context": {
+      "look above": "used to reference previous message",
+      "emphasis": "'this!' energy when agreeing with someone"
+    }
+  },
+  "🖕": {
+    "def": "middle finger",
+    "context": {
+      "offense": "direct insult or anger",
+      "joking": "used playfully among friends as mock disrespect"
+    }
+  },
+  "👇": {
+    "def": "backhand index pointing down",
+    "context": {
+      "look below": "used to reference next message or link",
+      "sassy": "used to emphasize what comes after"
+    }
+  },
+  "☝️": {
+    "def": "index pointing up",
+    "context": {
+      "attention": "used to highlight a point",
+      "one": "represents the number 1 or priority"
+    }
+  },
+  "🫵": {
+    "def": "index pointing at the viewer",
+    "context": {
+      "you": "means 'you!'",
+      "blame": "used jokingly to call someone out",
+      "flirty": "can mean 'you're the one'"
+    }
+  },
+  "👍": {
+    "def": "thumbs up",
+    "context": {
+      "approval": "means 'good' or 'okay'",
+      "passive aggressive": "Gen Z use it sarcastically as dry or dismissive",
+      "agree": "used for confirmation"
+    }
+  },
+  "👎": {
+    "def": "thumbs down",
+    "context": {
+      "disapprove": "represents dislike or disagreement",
+      "cancel": "used to shut down an idea"
+    }
+  },
+  "✊": {
+    "def": "raised fist",
+    "context": {
+      "power": "used in activism or solidarity",
+      "unity": "represents strength or togetherness"
+    }
+  },
+  "👊": {
+    "def": "oncoming fist",
+    "context": {
+      "fist bump": "friendly greeting or celebration",
+      "fight": "can also mean aggression, depending on context"
+    }
+  },
+  "🤛": {
+    "def": "left-facing fist",
+    "context": {
+      "fist bump left": "used in pairs with 🤜",
+      "team": "symbol of cooperation or friendship"
+    }
+  },
+  "🤜": {
+    "def": "right-facing fist",
+    "context": {
+      "fist bump right": "used in pairs with 🤛",
+      "unity": "used in friendly exchanges"
+    }
+  },
+  "👏": {
+    "def": "clapping hands - represents applause, praise, approval",
+    "context": {
+      "applause": "used to congratulate or celebrate someone",
+      "sarcasm": "used between words for emphasis (e.g., 'this👏is👏amazing👏')",
+      "shade": "can imply mock clapping or petty sarcasm online"
+    }
+  },
+  "🙌": {
+    "def": "raising hands - symbolizes celebration or excitement",
+    "context": {
+      "praise": "means 'hallelujah', 'finally', or 'let's go!'",
+      "achievement": "used when something succeeds or is complete",
+      "vibes": "Gen Z use for positive, uplifting energy"
+    }
+  },
+  "🫶": {
+    "def": "heart hands - gesture showing love or affection",
+    "context": {
+      "love": "used to show care or affection for someone/something",
+      "wholesome": "represents genuine kindness or appreciation",
+      "stan": "used by fans to show support for idols or artists"
+    }
+  },
+  "👐": {
+    "def": "open hands - symbolizes openness, offering, or giving",
+    "context": {
+      "hug": "represents offering a virtual hug",
+      "welcoming": "used for friendliness or approachability",
+      "drama": "sometimes used jokingly to mean 'hands off' or 'I didn't do it'"
+    }
+  },
+  "🤲": {
+    "def": "palms up together - gesture of offering or receiving",
+    "context": {
+      "please": "used to beg or ask politely online",
+      "grateful": "means 'thank you' or 'I appreciate it'",
+      "manifest": "used for hoping something good happens or 'manifesting'"
+    }
+  },
+  "🤝": {
+    "def": "handshake - symbolizes agreement or partnership",
+    "context": {
+      "deal": "used for reaching an understanding or deal",
+      "respect": "shows mutual recognition or support",
+      "ally": "used to signal solidarity between groups online"
+    }
+  },
+  "🙏": {
+    "def": "folded hands - used for prayer, thanks, or hope",
+    "context": {
+      "thank you": "means gratitude ('thank you so much 🙏')",
+      "please": "used for pleading or asking nicely",
+      "hope": "used to express positivity or good wishes"
+    }
+  },
+  "✍️": {
+    "def": "writing hand - symbolizes writing or recording",
+    "context": {
+      "taking notes": "used humorously when remembering something shady ('noted ✍️')",
+      "judgy": "used in gossip to imply 'writing this down for later'",
+      "planning": "represents preparing or brainstorming"
+    }
+  },
+  "💅": {
+    "def": "nail polish - represents beauty, confidence, or sass",
+    "context": {
+      "sass": "used to express attitude or indifference ('not my problem 💅')",
+      "self care": "symbolizes pampering or confidence",
+      "flex": "means 'I know I'm right' or 'I did that flawlessly'"
+    }
+  },
+  "🤳": {
+    "def": "selfie - taking a picture of oneself",
+    "context": {
+      "confidence": "used to show self-love or ego in a fun way",
+      "influencer": "mocking social media poses or attention-seeking",
+      "flex": "Gen Z use it to show off achievements humorously"
+    }
+  },
+  "💪": {
+    "def": "flexed biceps - symbolizes strength or confidence",
+    "context": {
+      "strong": "literal physical strength or motivation",
+      "you got this": "encouragement or empowerment",
+      "flex": "used to boast subtly ('just aced my exam 💪')"
+    }
+  },
+  "🦾": {
+    "def": "mechanical arm - robotic strength or enhancement",
+    "context": {
+      "cyborg": "techy or futuristic strength flex",
+      "upgrade": "used jokingly when improving oneself ('new phone, who dis 🦾')"
+    }
+  },
+  "🦿": {
+    "def": "mechanical leg - prosthetic or robotic leg",
+    "context": {
+      "resilience": "symbolizes adaptability and moving forward",
+      "cyber": "used in tech-related humor or 'futuristic' tone"
+    }
+  },
+  "🦵": {
+    "def": "leg - represents walking, movement, or body part",
+    "context": {
+      "thirst": "used suggestively in flirty or body-positive posts",
+      "fit": "used humorously to show off outfit or style ('check these legs 🦵')"
+    }
+  },
+  "🦶": {
+    "def": "foot - represents movement, walking, or steps",
+    "context": {
+      "footsteps": "used for progress ('moving on 🦶')",
+      "weird": "sometimes used in memes about foot fetishes jokingly"
+    }
+  },
+  "👂": {
+    "def": "ear - represents hearing or listening",
+    "context": {
+      "listening": "used to say 'I'm all ears'",
+      "gossip": "used in drama or tea contexts ('👂 tell me more')"
+    }
+  },
+  "🦻": {
+    "def": "ear with hearing aid - represents accessibility or hearing awareness",
+    "context": {
+      "inclusion": "used to show support for disability awareness",
+      "listen up": "can be used literally to mean 'pay attention'"
+    }
+  },
+  "👃": {
+    "def": "nose - represents smelling or detecting",
+    "context": {
+      "sus": "used to mean 'something smells fishy' (suspicious)",
+      "sniff": "literal or flirty meaning depending on tone"
+    }
+  },
+  "🧠": {
+    "def": "brain - symbolizes intelligence, thinking, or creativity",
+    "context": {
+      "smart": "used to praise cleverness ('big brain move 🧠')",
+      "mind blown": "used in memes to express surprise",
+      "focus": "used to show studying or intellectual effort"
+    }
+  },
+  "🫀": {
+    "def": "anatomical heart - realistic depiction of a heart organ",
+    "context": {
+      "real love": "used to mean genuine affection vs ❤️ (romantic)",
+      "deep emotion": "used dramatically to show intense feeling"
+    }
+  },
+  "🫁": {
+    "def": "lungs - represents breathing or health",
+    "context": {
+      "deep breath": "used to express calm or relief",
+      "alive": "used metaphorically for life, breath, or vitality"
+    }
+  },
+  "🦷": {
+    "def": "tooth - represents dental health or bite",
+    "context": {
+      "truth": "used in slang 'spitting facts 🦷' (like 'truth hurts')",
+      "smile": "can symbolize confidence or showing off teeth"
+    }
+  },
+  "🦴": {
+    "def": "bone - symbolizes structure or literal bones",
+    "context": {
+      "dog": "used with 🐶 for humor ('throw me a bone')",
+      "skeleton": "used for creepy or Halloween contexts"
+    }
+  },
+  "👀": {
+    "def": "eyes - symbolizes looking, watching, or noticing",
+    "context": {
+      "watching": "used for attention or gossip ('👀 what's going on here?')",
+      "sus": "means something's suspicious",
+      "thirst": "used in flirty contexts ('he posted new pics 👀')"
+    }
+  },
+  "👁️": {
+    "def": "eye - represents vision or awareness",
+    "context": {
+      "focus": "used for paying attention",
+      "watching": "used for subtle or serious observation"
+    }
+  },
+  "👅": {
+    "def": "tongue - symbolizes taste or playfulness",
+    "context": {
+      "flirty": "used sexually or teasingly",
+      "yum": "used when something looks tasty",
+      "wild": "used for energetic or chaotic behavior ('Friday night 👅🔥')"
+    }
+  },
+  "👄": {
+    "def": "mouth - represents speaking, kissing, or communication",
+    "context": {
+      "kiss": "used to represent lips or affection",
+      "gossip": "used for drama ('spill the tea 👄')",
+      "flirty": "used in seductive or playful contexts"
+    }
+  },
+  "🫦": {
+    "def": "biting lip - symbolizes attraction, nervousness, or tension",
+    "context": {
+      "flirty": "used to express desire or anticipation",
+      "awkward": "used to show nervousness or hesitation",
+      "reaction": "used in memes to react to something hot or exciting"
+    }
+  },
+  "👶": {
+    "def": "baby - represents a child or innocence",
+    "context": {
+      "cute": "used for adorable people or things",
+      "immature": "used jokingly to call someone childish",
+      "baby": "used affectionately toward partners or friends"
+    }
+  },
+  "🧒": {
+    "def": "child - represents youth or gender-neutral kid",
+    "context": {
+      "innocent": "used to imply purity or naivety",
+      "grow up": "used sarcastically when someone's immature"
+    }
+  },
+  "👦": {
+    "def": "boy - represents a young male child",
+    "context": {
+      "young": "literal or symbolic of childishness",
+      "baby boy": "used affectionately by Gen Z for someone cute"
+    }
+  },
+  "👧": {
+    "def": "girl - represents a young female child",
+    "context": {
+      "baby girl": "used affectionately for loved ones",
+      "girly": "used playfully in self-referential or aesthetic contexts"
+    }
+  },
+  "🧑": {
+    "def": "person - gender-neutral adult representation",
+    "context": {
+      "neutral": "used inclusively to represent anyone",
+      "generic": "used to refer to 'someone' or 'a random person'"
+    }
+  },
+  "👱": {
+    "def": "person with blond hair; gender-neutral representation of someone with light hair",
+    "context": {
+      "basic": "used to represent a stereotypically average or plain person",
+      "influencer": "can refer to a social media influencer or blonde stereotype joke",
+      "generic": "neutral placeholder for a person"
+    }
+  },
+  "👨": {
+    "def": "man; adult male person",
+    "context": {
+      "dad": "often used to represent fatherhood or dad jokes",
+      "male_friend": "refers to a male friend or boyfriend",
+      "bro": "used when talking about men collectively, like 'the boys'"
+    }
+  },
+  "🧔": {
+    "def": "person with beard; gender-neutral depiction of a bearded person",
+    "context": {
+      "hipster": "used for describing hipster culture or bearded style",
+      "manly": "symbol of masculinity or ruggedness",
+      "lumberjack": "playfully used to describe strong outdoorsy men"
+    }
+  },
+  "🧔‍♂️": {
+    "def": "man with beard; male representation of a person with a beard",
+    "context": {
+      "grown_up": "represents maturity or adulthood",
+      "beard_goals": "used jokingly when talking about beard growth or grooming",
+      "dad_vibes": "playful representation of fatherly energy or older men"
+    }
+  },
+  "🧔‍♀️": {
+    "def": "woman with beard; female depiction of a person with facial hair",
+    "context": {
+      "confidence": "represents body positivity and self-acceptance",
+      "nonconforming": "used to challenge gender norms or stereotypes",
+      "humor": "sometimes used sarcastically in memes"
+    }
+  },
+  "👨‍🦰": {
+    "def": "man with red hair",
+    "context": {
+      "ginger": "used humorously to reference redheads",
+      "unique": "celebrates individuality or distinct looks",
+      "irish": "occasionally tied to Irish stereotypes"
+    }
+  },
+  "👨‍🦱": {
+    "def": "man with curly hair",
+    "context": {
+      "curly_hair": "represents natural curls or curly-haired men",
+      "style": "used to talk about hairstyles or fashion",
+      "authentic": "can stand for natural looks or self-confidence"
+    }
+  },
+  "👨‍🦳": {
+    "def": "man with white hair",
+    "context": {
+      "grandpa": "used to depict an older man or grandfather",
+      "wise": "represents wisdom or experience",
+      "aged_like_wine": "humorous take on aging gracefully"
+    }
+  },
+  "👨‍🦲": {
+    "def": "bald man",
+    "context": {
+      "clean_look": "used positively to show confidence or style",
+      "bald_joke": "used playfully in bald jokes or memes",
+      "mr_clean": "associated with humor about baldness"
+    }
+  },
+  "👩": {
+    "def": "woman; adult female person",
+    "context": {
+      "girl_power": "represents empowerment or women supporting women",
+      "she": "used in conversations about self-expression or gender",
+      "mom": "represents motherhood or care"
+    }
+  },
+  "👩‍🦰": {
+    "def": "woman with red hair",
+    "context": {
+      "ginger_girl": "represents fiery personality or uniqueness",
+      "bold": "used to depict confidence or strength",
+      "rare": "used to represent something uncommon or distinct"
+    }
+  },
+  "🧑‍🦰": {
+    "def": "person with red hair; gender-neutral",
+    "context": {
+      "inclusivity": "used to represent diversity and individuality",
+      "unique": "neutral take on red hair or identity",
+      "modern": "fits gender-inclusive contexts"
+    }
+  },
+  "👩‍🦱": {
+    "def": "woman with curly hair",
+    "context": {
+      "natural": "represents embracing natural curls",
+      "curly_girl": "used in beauty and self-care talk",
+      "confident": "symbol of authenticity or pride in natural look"
+    }
+  },
+  "🧑‍🦱": {
+    "def": "person with curly hair; gender-neutral",
+    "context": {
+      "inclusive": "used to avoid gendered depictions",
+      "self_representation": "neutral curly-hair identity",
+      "style": "refers to natural texture or fashion"
+    }
+  },
+  "👩‍🦳": {
+    "def": "woman with white hair",
+    "context": {
+      "grandma": "used for grandmotherly love or humor",
+      "mature": "shows elegance or wisdom",
+      "silver_queen": "celebrates aging gracefully"
+    }
+  },
+  "🧑‍🦳": {
+    "def": "person with white hair",
+    "context": {
+      "elder": "neutral older person representation",
+      "wise": "used symbolically for knowledge or experience",
+      "inclusive": "gender-neutral elder emoji"
+    }
+  },
+  "👩‍🦲": {
+    "def": "bald woman",
+    "context": {
+      "strong": "represents empowerment and confidence",
+      "cancer_survivor": "used in supportive or awareness contexts",
+      "bold": "embracing uniqueness or body positivity"
+    }
+  },
+  "🧑‍🦲": {
+    "def": "bald person; gender-neutral",
+    "context": {
+      "inclusive": "represents all bald individuals without gender labels",
+      "neutral": "used broadly for self-depiction or humor",
+      "clean_look": "symbol of simplicity or self-confidence"
+    }
+  },
+  "👱‍♀️": {
+    "def": "woman with blond hair",
+    "context": {
+      "blonde_joke": "used humorously or ironically",
+      "stereotype": "references the 'blonde' personality trope",
+      "aesthetic": "used in beauty/fashion contexts"
+    }
+  },
+  "👱‍♂️": {
+    "def": "man with blond hair",
+    "context": {
+      "ken": "references stereotypically handsome or basic men",
+      "generic": "used to describe a typical guy",
+      "light_hair": "neutral reference to blond men"
+    }
+  },
+  "🧓": {
+    "def": "older person; gender-neutral elderly individual",
+    "context": {
+      "grandparent": "represents an older family member",
+      "wise": "symbolizes experience and knowledge",
+      "nostalgia": "used when talking about 'back in my day'"
+    }
+  },
+  "👴": {
+    "def": "old man",
+    "context": {
+      "grandpa": "represents a grandfather or older man",
+      "wise": "used for wisdom or jokes about age",
+      "tired": "can imply being old-fashioned or slow"
+    }
+  },
+  "👵": {
+    "def": "old woman",
+    "context": {
+      "grandma": "represents a grandmother or loving older figure",
+      "wholesome": "used affectionately",
+      "classic": "symbol of tradition or old-school charm"
+    }
+  },
+  "🙍": {
+    "def": "person frowning",
+    "context": {
+      "upset": "represents sadness or disappointment",
+      "frustrated": "used when things go wrong",
+      "annoyed": "mild irritation or annoyance"
+    }
+  },
+  "🙍‍♂️": {
+    "def": "man frowning",
+    "context": {
+      "sad_dude": "used humorously to show mild sadness",
+      "ugh": "displeasure or reluctance",
+      "frustration": "negative emotional reaction"
+    }
+  },
+  "🙍‍♀️": {
+    "def": "woman frowning",
+    "context": {
+      "mood": "represents frustration or disappointment",
+      "annoyed": "used in gossip or sarcastic tone",
+      "ugh": "relatable Gen Z expression of dissatisfaction"
+    }
+  },
+  "🙎": {
+    "def": "person pouting",
+    "context": {
+      "sassy": "used to show attitude or playfulness",
+      "unimpressed": "represents mild annoyance",
+      "mood": "used for passive-aggressive or teasing tone"
+    }
+  },
+  "🙎‍♂️": {
+    "def": "man pouting",
+    "context": {
+      "grumpy": "represents irritation or dissatisfaction",
+      "playful": "used sarcastically for overreaction",
+      "drama": "mocking dramatics"
+    }
+  },
+  "🙎‍♀️": {
+    "def": "woman pouting",
+    "context": {
+      "attitude": "used for sass or playful annoyance",
+      "mood": "sarcastic or exaggerated emotion",
+      "unimpressed": "common in teasing exchanges"
+    }
+  },
+  "🙅": {
+    "def": "person gesturing no; crossing arms to indicate stop or refusal",
+    "context": {
+      "no_way": "strong refusal or disbelief",
+      "cancelled": "used to reject something or someone",
+      "not_today": "represents boundaries or disapproval"
+    }
+  },
+  "🙅‍♂️": {
+    "def": "man gesturing no",
+    "context": {
+      "nope": "firm rejection or denial",
+      "stop": "cutting off conversation humorously",
+      "nah": "casual refusal, typical Gen Z tone"
+    }
+  },
+  "🙅‍♀️": {
+    "def": "woman gesturing NO - tags: stop, halt, denied",
+    "context": {
+      "nope": "Strong refusal or rejection",
+      "uh_uh": "Disapproval or refusal with sass",
+      "boundaries": "Setting limits, saying no to something unwanted",
+      "lmao": "Used humorously when rejecting something ridiculous"
+    }
+  },
+  "🙆": {
+    "def": "person gesturing OK - tags: none",
+    "context": {
+      "okay": "Agreement or approval",
+      "selfcare": "Feeling relaxed or chill",
+      "yesss": "Positive vibe, things are fine",
+      "genz_vibe": "Used ironically to mean 'sure, whatever'"
+    }
+  },
+  "🙆‍♂️": {
+    "def": "man gesturing OK - tags: none",
+    "context": {
+      "ok_bro": "Sarcastic approval",
+      "fine": "Everything's under control (or pretending it is)",
+      "gym": "Confidence or showing off casually"
+    }
+  },
+  "🙆‍♀️": {
+    "def": "woman gesturing OK - tags: none",
+    "context": {
+      "yaaas": "Approval, self-love, confidence",
+      "chill": "Relaxed or happy mood",
+      "vibes": "Used to express 'it's all good' energy"
+    }
+  },
+  "💁": {
+    "def": "person tipping hand - tags: none",
+    "context": {
+      "info": "Providing info (literal meaning)",
+      "sass": "Sarcastic or confident attitude",
+      "idc": "Used when saying something dismissive or smug",
+      "boss": "Used when showing confidence or attitude"
+    }
+  },
+  "💁‍♂️": {
+    "def": "man tipping hand - tags: information",
+    "context": {
+      "sarcasm": "Used in a sassy or 'whatever' way",
+      "explaining": "When giving unsolicited advice",
+      "mansplaining": "Mocking tone, self-confident explanation"
+    }
+  },
+  "💁‍♀️": {
+    "def": "woman tipping hand - tags: information",
+    "context": {
+      "queen": "Confidence or sass",
+      "idc": "Dismissive tone, like 'whatever'",
+      "micdrop": "Used after a bold or witty statement"
+    }
+  },
+  "🙋": {
+    "def": "person raising hand - tags: none",
+    "context": {
+      "me": "Volunteering or saying 'same here'",
+      "guilty": "Admitting something funny or embarrassing",
+      "hello": "Playfully saying hi"
+    }
+  },
+  "🙋‍♂️": {
+    "def": "man raising hand - tags: none",
+    "context": {
+      "me_too": "Admitting to something relatable",
+      "volunteer": "Saying 'I'll do it'",
+      "same": "Expressing agreement"
+    }
+  },
+  "🙋‍♀️": {
+    "def": "woman raising hand - tags: none",
+    "context": {
+      "relatable": "When someone says something true",
+      "guilty_as_charged": "Admitting to doing something",
+      "pick_me": "Used ironically in Gen Z humor"
+    }
+  },
+  "🧏": {
+    "def": "deaf person - tags: none",
+    "context": {
+      "ignoring": "Pretending not to hear drama",
+      "silent": "Choosing peace or ignoring chaos",
+      "lowkey": "Used to indicate tuning things out"
+    }
+  },
+  "🧏‍♂️": {
+    "def": "deaf man - tags: none",
+    "context": {
+      "bro_ignores": "Pretending not to notice nonsense",
+      "quiet_vibes": "Staying out of drama"
+    }
+  },
+  "🧏‍♀️": {
+    "def": "deaf woman - tags: none",
+    "context": {
+      "girl_ignores": "Deliberately ignoring someone",
+      "peaceful": "Choosing silence over chaos"
+    }
+  },
+  "🙇": {
+    "def": "person bowing - tags: respect, thanks",
+    "context": {
+      "apology": "Used when apologizing sincerely or sarcastically",
+      "thanks": "Showing gratitude",
+      "respect": "Paying respect or humility"
+    }
+  },
+  "🙇‍♂️": {
+    "def": "man bowing - tags: respect, thanks",
+    "context": {
+      "sorry_bro": "Apologizing, usually jokingly",
+      "humble": "Expressing deep thanks",
+      "respectful": "Used to show acknowledgment"
+    }
+  },
+  "🙇‍♀️": {
+    "def": "woman bowing - tags: respect, thanks",
+    "context": {
+      "grateful": "Showing deep appreciation",
+      "apology": "Sincere sorry moment",
+      "respect": "Used to acknowledge someone's effort"
+    }
+  },
+  "🤦": {
+    "def": "person facepalming - tags: none",
+    "context": {
+      "embarrassed": "Cringe moment or secondhand embarrassment",
+      "omg": "Reacting to stupidity",
+      "lmao": "Used humorously when something's absurd"
+    }
+  },
+  "🤦‍♂️": {
+    "def": "man facepalming - tags: none",
+    "context": {
+      "bro_moment": "When someone does something dumb",
+      "classic": "Sarcastic disbelief",
+      "dad_energy": "Used humorously for exasperation"
+    }
+  },
+  "🤦‍♀️": {
+    "def": "woman facepalming - tags: none",
+    "context": {
+      "ugh": "Exasperation at drama",
+      "relatable": "Cringe but funny",
+      "why": "Disbelief or mock frustration"
+    }
+  },
+  "🤷": {
+    "def": "person shrugging - tags: none",
+    "context": {
+      "idk": "I don't know / don't care",
+      "whatever": "Indifference",
+      "ohwell": "Acceptance of chaos"
+    }
+  },
+  "🤷‍♂️": {
+    "def": "man shrugging - tags: none",
+    "context": {
+      "bro_idk": "Carefree attitude",
+      "meh": "Not bothered",
+      "casual": "Low effort reaction"
+    }
+  },
+  "🤷‍♀️": {
+    "def": "woman shrugging - tags: none",
+    "context": {
+      "idk_girl": "Expressing apathy or confusion",
+      "it_is_what_it_is": "Acceptance with flair",
+      "whatever": "Used ironically or playfully"
+    }
+  },
+  "🧑‍⚕️": {
+    "def": "health worker - tags: none",
+    "context": {
+      "medical": "Literal meaning (doctor/nurse)",
+      "healer": "Used metaphorically for emotional support",
+      "fixer": "Someone who helps or 'heals' problems"
+    }
+  },
+  "👨‍⚕️": {
+    "def": "man health worker - tags: doctor, nurse",
+    "context": {
+      "doc_energy": "Used jokingly when giving advice",
+      "science": "Literal or sarcastic use for 'I know better'"
+    }
+  },
+  "👩‍⚕️": {
+    "def": "woman health worker - tags: doctor, nurse",
+    "context": {
+      "nurse_vibes": "Literal or supportive tone",
+      "therapist_energy": "Used jokingly when giving advice",
+      "caregiver": "Symbolic for emotional healing"
+    }
+  },
+  "🧑‍🎓": {
+    "def": "student - tags: none",
+    "context": {
+      "study_mode": "Literal for studying",
+      "brainrot": "Used ironically to mock school fatigue",
+      "exam": "When overwhelmed by academics"
+    }
+  },
+  "👨‍🎓": {
+    "def": "man student - tags: graduation",
+    "context": {
+      "grad": "Literal graduation celebration",
+      "nerd": "Used humorously for studying",
+      "done": "Sarcastic 'finally graduated' tone"
+    }
+  },
+  "👩‍🎓": {
+    "def": "woman student - tags: graduation",
+    "context": {
+      "study_mode": "Grinding through assignments or exams",
+      "finally": "Graduation or completing something big",
+      "brainrot": "Relatable school fatigue or stress"
+    }
+  },
+  "🧑‍🏫": {
+    "def": "teacher - tags: none",
+    "context": {
+      "professor_vibes": "Literal teaching or giving knowledge",
+      "sass": "Used ironically for 'giving advice like a teacher'",
+      "lecture_mode": "Explaining something seriously"
+    }
+  },
+  "👨‍🏫": {
+    "def": "man teacher - tags: school, professor",
+    "context": {
+      "mr_teacher": "Used for explaining or lecturing",
+      "professor_energy": "Literal or sarcastic, teaching tone",
+      "school_mode": "Guiding or instructing someone"
+    }
+  },
+  "👩‍🏫": {
+    "def": "woman teacher - tags: school, professor",
+    "context": {
+      "prof": "Literal teacher or professor",
+      "lecture": "Explaining something important",
+      "boss_energy": "Confident teaching vibe"
+    }
+  },
+  "🧑‍⚖️": {
+    "def": "judge - tags: none",
+    "context": {
+      "courtroom": "Literal judge in action",
+      "decide": "Used metaphorically to make a call",
+      "justice": "Calling something fair or unfair"
+    }
+  },
+  "👨‍⚖️": {
+    "def": "man judge - tags: justice",
+    "context": {
+      "law_bro": "Making decisions or judgments",
+      "court_energy": "Literal or metaphorical judgment",
+      "fair_play": "Calling out fairness or rules"
+    }
+  },
+  "👩‍⚖️": {
+    "def": "woman judge - tags: justice",
+    "context": {
+      "queen_of_justice": "Deciding fairly or sarcastically",
+      "rules": "Calling out fairness",
+      "courtroom": "Literal judge or metaphorical judgment"
+    }
+  },
+  "🧑‍🌾": {
+    "def": "farmer - tags: none",
+    "context": {
+      "farmer_energy": "Literal farming or gardening",
+      "plant_parent": "Caring for plants or nature",
+      "sustainable": "Eco-conscious vibes"
+    }
+  },
+  "👨‍🌾": {
+    "def": "man farmer - tags: none",
+    "context": {
+      "bro_farmer": "Literal farmer vibes",
+      "crops": "Tending to things patiently",
+      "nature_energy": "Relaxed, outdoor vibe"
+    }
+  },
+  "👩‍🌾": {
+    "def": "woman farmer - tags: none",
+    "context": {
+      "plant_queen": "Literal or metaphorical gardening energy",
+      "nature_vibes": "Eco or outdoor vibes",
+      "boss_farmer": "Confidence in growing or leading"
+    }
+  },
+  "🧑‍🍳": {
+    "def": "cook - tags: none",
+    "context": {
+      "chef_energy": "Literal cooking or kitchen vibes",
+      "bake_mode": "Making food or snacks",
+      "foodie": "Showing love for good food"
+    }
+  },
+  "👨‍🍳": {
+    "def": "man cook - tags: chef",
+    "context": {
+      "chef_bro": "Literal cooking or kitchen boss",
+      "cooking_mode": "Preparing meals with pride",
+      "gourmet": "For fancy or proud food moments"
+    }
+  },
+  "👩‍🍳": {
+    "def": "woman cook - tags: chef",
+    "context": {
+      "queen_chef": "Pride in cooking skills",
+      "bake_queen": "Making treats or meals",
+      "chef_energy": "Confidence in the kitchen"
+    }
+  },
+  "🧑‍🔧": {
+    "def": "mechanic - tags: none",
+    "context": {
+      "fixer": "Literal mechanic or problem solver",
+      "hands_on": "DIY or repair vibes",
+      "tech_energy": "Fixing things like a pro"
+    }
+  },
+  "👨‍🔧": {
+    "def": "man mechanic - tags: none",
+    "context": {
+      "bro_fixer": "Fixing stuff literally or metaphorically",
+      "garage_energy": "Mechanic or DIY vibe",
+      "repair_mode": "Handling problems confidently"
+    }
+  },
+  "👩‍🔧": {
+    "def": "woman mechanic - tags: none",
+    "context": {
+      "queen_fixer": "Fixing things literally or metaphorically",
+      "garage_vibes": "Hands-on energy",
+      "boss_energy": "Skillful and confident"
+    }
+  },
+  "🧑‍🏭": {
+    "def": "factory worker - tags: none",
+    "context": {
+      "work_mode": "Grinding or working hard",
+      "shift_life": "Factory or manual labor energy",
+      "blue_collar": "Literal work vibes"
+    }
+  },
+  "👨‍🏭": {
+    "def": "man factory worker - tags: none",
+    "context": {
+      "bro_shift": "Literal working or grinding",
+      "hard_work": "Putting in effort",
+      "manual_mode": "Blue-collar vibes"
+    }
+  },
+  "👩‍🏭": {
+    "def": "woman factory worker - tags: none",
+    "context": {
+      "lady_shift": "Hardworking energy",
+      "blue_collar_queen": "Pride in work",
+      "grind_mode": "Effort and dedication"
+    }
+  },
+  "🧑‍💼": {
+    "def": "office worker - tags: none",
+    "context": {
+      "desk_job": "Literal office work",
+      "corporate": "Office vibes or corporate life",
+      "grind_mode": "Working hard at your desk"
+    }
+  },
+  "👨‍💼": {
+    "def": "man office worker - tags: business",
+    "context": {
+      "bro_corp": "Office vibes or corporate energy",
+      "desk_mode": "Working hard",
+      "boss_energy": "Professional or confident tone"
+    }
+  },
+  "👩‍💼": {
+    "def": "woman office worker - tags: business",
+    "context": {
+      "queen_corp": "Professional energy",
+      "desk_queen": "Hardworking office vibe",
+      "corporate": "Literal or ironic corporate energy"
+    }
+  },
+  "🧑‍🔬": {
+    "def": "scientist - tags: none",
+    "context": {
+      "lab_mode": "Literal science or experiments",
+      "brainiac": "Smart energy or research vibes",
+      "science_queen": "Confident scientific energy"
+    }
+  },
+  "👨‍🔬": {
+    "def": "man scientist - tags: research",
+    "context": {
+      "lab_bro": "Literal scientist or researcher",
+      "nerd_energy": "Focused, study-heavy vibes",
+      "experiment_mode": "Doing science or testing"
+    }
+  },
+  "👩‍🔬": {
+    "def": "woman scientist - tags: research",
+    "context": {
+      "lab_queen": "Confident, research-focused energy",
+      "nerd_queen": "Literal or ironic nerd vibes",
+      "experiment_mode": "Focused or problem-solving"
+    }
+  },
+  "🧑‍💻": {
+    "def": "technologist - tags: none",
+    "context": {
+      "coding_mode": "Literal programming or tech work",
+      "nerd_energy": "Focused on tech",
+      "digital_queen": "Confidence in digital skills"
+    }
+  },
+  "👨‍💻": {
+    "def": "man technologist - tags: coder",
+    "context": {
+      "coder_bro": "Literal coding or dev work",
+      "tech_mode": "Focused, nerdy energy",
+      "debug": "Fixing problems in tech or life"
+    }
+  },
+  "👩‍💻": {
+    "def": "woman technologist - tags: coder",
+    "context": {
+      "queen_coder": "Coding energy or tech pride",
+      "hack_mode": "Focused on programming",
+      "nerd_energy": "Literal or ironic nerd vibes"
+    }
+  },
+  "🧑‍🎤": {
+    "def": "singer - tags: none",
+    "context": {
+      "vocal_mode": "Literal singing or performing",
+      "rockstar_energy": "Confidence, showmanship",
+      "sing_it": "Expressing emotions through music"
+    }
+  },
+  "👨‍🎤": {
+    "def": "man singer - tags: rockstar",
+    "context": {
+      "rockstar_bro": "Literal performing or confident vibes",
+      "showtime": "Being dramatic or confident",
+      "perform_mode": "Singing or expressing self"
+    }
+  },
+  "🤵‍♂️": {
+    "def": "man in tuxedo - tags: none",
+    "context": {
+      "dapper_bro": "Looking sharp, formal vibes",
+      "groom_mode": "Wedding or classy energy",
+      "suit_energy": "Confident and elegant"
+    }
+  },
+  "🤵‍♀️": {
+    "def": "woman in tuxedo - tags: none",
+    "context": {
+      "queen_dapper": "Sharp, elegant energy",
+      "formal_queen": "Wedding or classy vibes",
+      "suit_mode": "Confident and stylish"
+    }
+  },
+  "👰": {
+    "def": "person with veil - tags: marriage, wedding",
+    "context": {
+      "bridal_vibes": "Wedding or special occasion energy",
+      "veil_mode": "Elegance and celebration",
+      "wedding_energy": "Confident, happy, formal"
+    }
+  },
+  "👰‍♂️": {
+    "def": "man with veil - tags: none",
+    "context": {
+      "bridal_bro": "Wedding vibes with a twist",
+      "veil_mode": "Elegance and celebration",
+      "wedding_energy": "Formal and confident"
+    }
+  },
+  "👰‍♀️": {
+    "def": "woman with veil - tags: none",
+    "context": {
+      "bridal_queen": "Elegant and wedding-ready energy",
+      "veil_mode": "Formal, confident vibes",
+      "wedding_mode": "Celebratory and happy"
+    }
+  },
+  "🤰": {
+    "def": "pregnant woman - tags: none",
+    "context": {
+      "baby_bump_mode": "Expecting or nurturing energy",
+      "preggo_vibes": "Care, patience, growth",
+      "future_mom_energy": "Excited and protective"
+    }
+  },
+  "🫃": {
+    "def": "pregnant man - tags: none",
+    "context": {
+      "preggo_bro": "Expecting energy, nurturing vibes",
+      "baby_bump_mode": "Care and preparation",
+      "future_dad_energy": "Excited and protective"
+    }
+  },
+  "🫄": {
+    "def": "pregnant person - tags: none",
+    "context": {
+      "preggo_mode": "Expecting or nurturing energy",
+      "baby_bump_vibes": "Care, preparation, growth",
+      "future_parent_energy": "Excited and protective"
+    }
+  },
+  "🤱": {
+    "def": "breast-feeding - tags: nursing",
+    "context": {
+      "nursing_mode": "Feeding or nurturing energy",
+      "care_vibes": "Parenting and protection",
+      "feeding_energy": "Love and attention"
+    }
+  },
+  "👩‍🍼": {
+    "def": "woman feeding baby - tags: none",
+    "context": {
+      "mom_mode": "Nurturing and caring energy",
+      "feeding_vibes": "Parenting and love",
+      "baby_care_energy": "Gentle and attentive"
+    }
+  },
+  "👨‍🍼": {
+    "def": "man feeding baby - tags: none",
+    "context": {
+      "dad_mode": "Nurturing and caring energy",
+      "feeding_bro": "Parenting and love",
+      "baby_care_vibes": "Gentle and attentive"
+    }
+  },
+  "🧑‍🍼": {
+    "def": "person feeding baby - tags: none",
+    "context": {
+      "parent_mode": "Nurturing energy",
+      "feeding_vibes": "Caring and attentive",
+      "baby_care_energy": "Love and protection"
+    }
+  },
+  "👼": {
+    "def": "baby angel - tags: none",
+    "context": {
+      "angel_vibes": "Innocence and purity",
+      "cute_mode": "Soft, adorable energy",
+      "heavenly_energy": "Sweet and gentle"
+    }
+  },
+  "🎅": {
+    "def": "Santa Claus - tags: christmas",
+    "context": {
+      "santa_mode": "Festive and giving energy",
+      "holiday_vibes": "Joy and cheer",
+      "christmas_energy": "Playful and kind"
+    }
+  },
+  "🤶": {
+    "def": "Mrs. Claus - tags: santa",
+    "context": {
+      "mrs_claus_mode": "Festive and caring vibes",
+      "holiday_queen": "Joy, warmth, and kindness",
+      "christmas_energy": "Cheerful and giving"
+    }
+  },
+  "🧑‍🎄": {
+    "def": "mx claus - tags: none",
+    "context": {
+      "holiday_mode": "Festive vibes, giving energy",
+      "mx_claus_vibes": "Inclusive Christmas energy",
+      "jolly_energy": "Playful, cheerful, wintery"
+    }
+  },
+  "🦸": {
+    "def": "superhero - tags: none",
+    "context": {
+      "hero_mode": "Saving the day energy",
+      "superhero_vibes": "Powerful, confident, protective",
+      "cape_energy": "Brave and inspiring"
+    }
+  },
+  "🦸‍♂️": {
+    "def": "man superhero - tags: none",
+    "context": {
+      "hero_bro": "Brave, strong, and protective",
+      "manly_hero_vibes": "Confidence and power",
+      "cape_mode": "Epic heroic energy"
+    }
+  },
+  "🦸‍♀️": {
+    "def": "woman superhero - tags: none",
+    "context": {
+      "hero_queen": "Confident, powerful, protective",
+      "cape_energy": "Brave and inspiring",
+      "superwoman_mode": "Epic hero vibes"
+    }
+  },
+  "🦹": {
+    "def": "supervillain - tags: none",
+    "context": {
+      "villain_mode": "Mischievous, plotting energy",
+      "evil_vibes": "Cunning and powerful",
+      "dark_energy": "Mysterious, chaotic"
+    }
+  },
+  "🦹‍♂️": {
+    "def": "man supervillain - tags: none",
+    "context": {
+      "villain_bro": "Cunning, powerful, plotting energy",
+      "evil_mode": "Dark, mischievous vibes",
+      "dark_bro_energy": "Chaotic and threatening"
+    }
+  },
+  "🦹‍♀️": {
+    "def": "woman supervillain - tags: none",
+    "context": {
+      "villain_queen": "Cunning, mysterious, plotting energy",
+      "dark_energy": "Powerful and mischievous",
+      "chaotic_vibes": "Evil but elegant"
+    }
+  },
+  "🧙": {
+    "def": "mage - tags: wizard",
+    "context": {
+      "magic_mode": "Mystical, wise energy",
+      "wizard_vibes": "Knowledge and spellcasting",
+      "mage_energy": "Mysterious, arcane"
+    }
+  },
+  "🧙‍♂️": {
+    "def": "man mage - tags: wizard",
+    "context": {
+      "wizard_bro": "Wise, powerful, spellcasting vibes",
+      "magic_mode": "Mystical and thoughtful",
+      "arcane_energy": "Knowledge and mystery"
+    }
+  },
+  "🧙‍♀️": {
+    "def": "woman mage - tags: wizard",
+    "context": {
+      "wizard_queen": "Mystical, wise, and magical energy",
+      "arcane_vibes": "Knowledge, spellcasting, elegant",
+      "mage_mode": "Powerful and mystical"
+    }
+  },
+  "🧚": {
+    "def": "fairy - tags: none",
+    "context": {
+      "fairy_mode": "Whimsical, magical energy",
+      "cute_vibes": "Playful and enchanting",
+      "magic_energy": "Lighthearted and charming"
+    }
+  },
+  "🧚‍♂️": {
+    "def": "man fairy - tags: none",
+    "context": {
+      "fairy_bro": "Playful and whimsical energy",
+      "magic_mode": "Enchanting and lighthearted",
+      "charming_vibes": "Fun and mystical"
+    }
+  },
+  "🧚‍♀️": {
+    "def": "woman fairy - tags: none",
+    "context": {
+      "fairy_queen": "Whimsical, enchanting energy",
+      "magic_vibes": "Lighthearted and playful",
+      "charming_energy": "Mystical and cute"
+    }
+  },
+  "🧛": {
+    "def": "vampire - tags: none",
+    "context": {
+      "vamp_mode": "Mysterious, dark energy",
+      "blood_sucker_vibes": "Elegant but dangerous",
+      "night_energy": "Cunning and immortal"
+    }
+  },
+  "🧛‍♂️": {
+    "def": "man vampire - tags: none",
+    "context": {
+      "vamp_bro": "Mysterious and dangerous energy",
+      "night_mode": "Elegant and cunning",
+      "immortal_vibes": "Dark and powerful"
+    }
+  },
+  "🧛‍♀️": {
+    "def": "woman vampire - tags: none",
+    "context": {
+      "vamp_queen": "Elegant, mysterious, dangerous energy",
+      "night_vibes": "Cunning and immortal",
+      "dark_energy": "Seductive and powerful"
+    }
+  },
+  "🧜": {
+    "def": "merperson - tags: none",
+    "context": {
+      "mer_mode": "Oceanic, mystical energy",
+      "aqua_vibes": "Calm and enchanting",
+      "underwater_energy": "Graceful and magical"
+    }
+  },
+  "🧜‍♂️": {
+    "def": "merman - tags: none",
+    "context": {
+      "merman_bro": "Mystical and oceanic energy",
+      "aqua_mode": "Calm and graceful",
+      "underwater_vibes": "Enchanting and magical"
+    }
+  },
+  "🧜‍♀️": {
+    "def": "mermaid - tags: none",
+    "context": {
+      "mermaid_queen": "Enchanting and mystical energy",
+      "aqua_vibes": "Graceful and magical",
+      "ocean_mode": "Playful and elegant"
+    }
+  },
+  "🧝": {
+    "def": "elf - tags: none",
+    "context": {
+      "elf_mode": "Magical, graceful energy",
+      "forest_vibes": "Elegant and mystical",
+      "nature_energy": "Wise and agile"
+    }
+  },
+  "🧝‍♂️": {
+    "def": "man elf - tags: none",
+    "context": {
+      "elf_bro": "Graceful, agile, magical energy",
+      "forest_mode": "Mysterious and wise",
+      "nature_vibes": "Elegant and mystical"
+    }
+  },
+  "🧝‍♀️": {
+    "def": "woman elf - tags: none",
+    "context": {
+      "elf_queen": "Elegant, mystical, magical energy",
+      "forest_vibes": "Graceful and wise",
+      "nature_mode": "Enchanting and agile"
+    }
+  },
+  "🧞": {
+    "def": "genie - tags: none",
+    "context": {
+      "genie_mode": "Magical, wish-granting energy",
+      "mystical_vibes": "Powerful and playful",
+      "magic_energy": "Whimsical and helpful"
+    }
+  },
+  "🧞‍♂️": {
+    "def": "man genie - tags: none",
+    "context": {
+      "genie_bro": "Wish-granting, playful energy",
+      "mystical_mode": "Powerful and fun",
+      "magic_vibes": "Helpful and whimsical"
+    }
+  },
+  "🧞‍♀️": {
+    "def": "woman genie - tags: none",
+    "context": {
+      "genie_queen": "Whimsical, magical energy",
+      "magic_mode": "Playful and helpful",
+      "mystical_vibes": "Powerful and enchanting"
+    }
+  },
+  "🧟": {
+    "def": "zombie - tags: none",
+    "context": {
+      "zombie_mode": "Undead, slow-moving energy",
+      "apocalypse_vibes": "Creepy but chill",
+      "brain_energy": "Spooky and relentless"
+    }
+  },
+  "🧟‍♂️": {
+    "def": "man zombie - tags: none",
+    "context": {
+      "zombie_bro": "Undead and creepy energy",
+      "apocalypse_mode": "Slow but relentless",
+      "brain_vibes": "Spooky and intimidating"
+    }
+  },
+  "🧟‍♀️": {
+    "def": "woman zombie - tags: none",
+    "context": {
+      "zombie_queen": "Creepy, spooky, undead energy",
+      "apocalypse_vibes": "Chilling and relentless",
+      "brain_mode": "Intimidating but eerie"
+    }
+  },
+  "🧌": {
+    "def": "troll - tags: none",
+    "context": {
+      "troll_mode": "Mischievous, grumpy vibes",
+      "cave_vibes": "Big, strong, quirky energy",
+      "prank_energy": "Funny but rough"
+    }
+  },
+  "💆": {
+    "def": "person getting massage - tags: spa",
+    "context": {
+      "relax_mode": "Calm, self-care vibes",
+      "spa_energy": "Pampering and chill",
+      "zen_vibes": "Relaxed and happy"
+    }
+  },
+  "💆‍♂️": {
+    "def": "man getting massage - tags: spa",
+    "context": {
+      "relax_bro": "Calm, pampered energy",
+      "spa_mode": "Chill and refreshed",
+      "zen_vibes": "Self-care and peaceful"
+    }
+  },
+  "💆‍♀️": {
+    "def": "woman getting massage - tags: spa",
+    "context": {
+      "relax_queen": "Calm and pampered energy",
+      "spa_mode": "Peaceful and refreshed",
+      "zen_vibes": "Self-care and chill"
+    }
+  },
+  "💇": {
+    "def": "person getting haircut - tags: beauty",
+    "context": {
+      "fresh_cut_mode": "Stylish, refreshed energy",
+      "beauty_vibes": "Confident and groomed",
+      "hair_energy": "New look, happy vibes"
+    }
+  },
+  "💇‍♂️": {
+    "def": "man getting haircut - tags: none",
+    "context": {
+      "fresh_cut_bro": "Stylish and confident energy",
+      "groom_mode": "Refreshed and sharp",
+      "hair_vibes": "New look, happy energy"
+    }
+  },
+  "💇‍♀️": {
+    "def": "woman getting haircut - tags: none",
+    "context": {
+      "fresh_cut_queen": "Stylish and confident energy",
+      "groom_mode": "Refreshed and elegant",
+      "hair_vibes": "New look, happy energy"
+    }
+  },
+  "🚶": {
+    "def": "person walking - tags: none",
+    "context": {
+      "walk_mode": "Casual, moving energy",
+      "stroll_vibes": "Relaxed and active",
+      "walking_energy": "Chill and steady"
+    }
+  },
+  "🚶‍♂️": {
+    "def": "man walking - tags: none",
+    "context": {
+      "walk_bro": "Casual and moving energy",
+      "stroll_mode": "Relaxed and steady",
+      "walking_vibes": "Chill and active"
+    }
+  },
+  "🚶‍♀️": {
+    "def": "woman walking - tags: none",
+    "context": {
+      "walk_queen": "Casual, moving energy",
+      "stroll_mode": "Relaxed and graceful",
+      "walking_vibes": "Chill and active"
+    }
+  },
+  "🧍": {
+    "def": "person standing - tags: none",
+    "context": {
+      "stand_mode": "Neutral, calm energy",
+      "chill_vibes": "Ready or waiting energy",
+      "stable_energy": "Grounded and relaxed"
+    }
+  },
+  "🧍‍♂️": {
+    "def": "man standing - tags: none",
+    "context": {
+      "stand_bro": "Calm, ready energy",
+      "grounded_vibes": "Neutral and relaxed",
+      "stable_mode": "Chill and steady"
+    }
+  },
+  "🧍‍♀️": {
+    "def": "woman standing - tags: none",
+    "context": {
+      "stand_queen": "Calm and grounded energy",
+      "neutral_vibes": "Relaxed and ready",
+      "stable_mode": "Chill and steady"
+    }
+  },
+  "🧎": {
+    "def": "person kneeling - tags: none",
+    "context": {
+      "kneel_mode": "Respectful, humble energy",
+      "chill_vibes": "Submissive or thoughtful",
+      "grounded_energy": "Patient and calm"
+    }
+  },
+  "🧎‍♂️": {
+    "def": "man kneeling - tags: none",
+    "context": {
+      "kneel_bro": "Respectful or humble energy",
+      "grounded_mode": "Patient and calm",
+      "chill_vibes": "Submissive or thoughtful"
+    }
+  },
+  "🧎‍♀️": {
+    "def": "woman kneeling - tags: none",
+    "context": {
+      "kneel_queen": "Humble and respectful energy",
+      "grounded_mode": "Patient and calm",
+      "chill_vibes": "Submissive or thoughtful"
+    }
+  },
+  "🧑‍🦯": {
+    "def": "person with white cane - tags: none",
+    "context": {
+      "cane_mode": "Navigating, careful energy",
+      "blind_vibes": "Focused and independent",
+      "steady_energy": "Thoughtful and alert"
+    }
+  },
+  "👨‍🦯": {
+    "def": "man with white cane - tags: none",
+    "context": {
+      "cane_bro": "Navigating, careful energy",
+      "focused_vibes": "Independent and alert",
+      "steady_mode": "Thoughtful and aware"
+    }
+  },
+  "👩‍🦯": {
+    "def": "woman with white cane - tags: none",
+    "context": {
+      "cane_queen": "Independent, careful energy",
+      "focused_vibes": "Alert and thoughtful",
+      "steady_mode": "Confident navigation energy"
+    }
+  },
+  "🧑‍🦼": {
+    "def": "person in motorized wheelchair - tags: none",
+    "context": {
+      "wheelchair_mode": "Powered, confident mobility",
+      "independent_vibes": "Effortless movement energy",
+      "steady_energy": "Smooth, empowered motion"
+    }
+  },
+  "👨‍🦼": {
+    "def": "man in motorized wheelchair - tags: none",
+    "context": {
+      "wheelchair_bro": "Confident and independent energy",
+      "powered_vibes": "Smooth, empowered motion",
+      "mobility_mode": "Strong and capable"
+    }
+  },
+  "👩‍🦼": {
+    "def": "woman in motorized wheelchair - tags: none",
+    "context": {
+      "wheelchair_queen": "Independent, empowered energy",
+      "powered_vibes": "Smooth and confident motion",
+      "mobility_mode": "Strong and capable"
+    }
+  },
+  "🧑‍🦽": {
+    "def": "person in manual wheelchair - tags: none",
+    "context": {
+      "manual_wheel_mode": "Effortful but empowered energy",
+      "independent_vibes": "Strong and steady",
+      "mobility_energy": "Focused and capable"
+    }
+  },
+  "👨‍🦽": {
+    "def": "man in manual wheelchair - tags: none",
+    "context": {
+      "manual_wheel_bro": "Effortful, steady energy",
+      "independent_mode": "Focused and capable",
+      "mobility_vibes": "Strong and determined"
+    }
+  },
+  "👩‍🦽": {
+    "def": "woman in manual wheelchair - tags: none",
+    "context": {
+      "manual_wheel_queen": "Empowered and steady energy",
+      "independent_vibes": "Strong and capable",
+      "mobility_mode": "Focused and determined"
+    }
+  },
+  "🏃": {
+    "def": "person running - tags: exercise, workout, marathon",
+    "context": {
+      "run_mode": "Active, energetic vibes",
+      "fitness_energy": "Fast, motivated, determined",
+      "marathon_vibes": "Endurance and movement"
+    }
+  },
+  "🏃‍♂️": {
+    "def": "man running - tags: exercise, workout, marathon",
+    "context": {
+      "run_bro": "Energetic and motivated",
+      "fitness_mode": "Active and determined",
+      "marathon_vibes": "Fast and unstoppable"
+    }
+  },
+  "🏃‍♀️": {
+    "def": "woman running - tags: exercise, workout, marathon",
+    "context": {
+      "run_queen": "Active, focused, motivated",
+      "fitness_mode": "Energetic and unstoppable",
+      "marathon_vibes": "Strong and determined"
+    }
+  },
+  "💃": {
+    "def": "woman dancing - tags: dress",
+    "context": {
+      "dance_queen": "Energetic, fun vibes",
+      "party_mode": "Expressive and lively",
+      "groove_energy": "Playful and confident"
+    }
+  },
+  "🕺": {
+    "def": "man dancing - tags: dancer",
+    "context": {
+      "dance_bro": "Fun, energetic, confident",
+      "party_mode": "Expressive and lively",
+      "groove_energy": "Playful and stylish"
+    }
+  },
+  "🕴️": {
+    "def": "person in suit levitating - tags: none",
+    "context": {
+      "levitate_mode": "Cool, stylish energy",
+      "business_vibes": "Suave, confident, floating",
+      "mysterious_energy": "Elegant and epic"
+    }
+  },
+  "👯": {
+    "def": "people with bunny ears - tags: bunny",
+    "context": {
+      "bunny_mode": "Fun, playful energy",
+      "party_vibes": "Cute and quirky",
+      "dance_energy": "Lively and silly"
+    }
+  },
+  "👯‍♂️": {
+    "def": "men with bunny ears - tags: bunny",
+    "context": {
+      "bunny_bros": "Playful and fun energy",
+      "party_mode": "Quirky and silly",
+      "dance_vibes": "Energetic and lively"
+    }
+  },
+  "👯‍♀️": {
+    "def": "women with bunny ears - tags: bunny",
+    "context": {
+      "bunny_queens": "Cute and lively energy",
+      "party_mode": "Fun and playful",
+      "dance_vibes": "Quirky and energetic"
+    }
+  },
+  "🧖": {
+    "def": "person in steamy room - tags: steamy",
+    "context": {
+      "sauna_mode": "Relaxed, pampered energy",
+      "steam_vibes": "Chill and rejuvenated",
+      "selfcare_energy": "Peaceful and calm"
+    }
+  },
+  "🧖‍♂️": {
+    "def": "man in steamy room - tags: steamy",
+    "context": {
+      "sauna_bro": "Relaxed and calm energy",
+      "steam_mode": "Pampered and chill",
+      "selfcare_vibes": "Peaceful and refreshed"
+    }
+  },
+  "🧖‍♀️": {
+    "def": "woman in steamy room - tags: steamy",
+    "context": {
+      "sauna_queen": "Relaxed, pampered energy",
+      "steam_vibes": "Chill and rejuvenated",
+      "selfcare_energy": "Peaceful, calm, refreshed"
+    }
+  },
+  "🧗": {
+    "def": "person climbing - tags: bouldering",
+    "context": {
+      "climb_mode": "Adventurous, strong vibes",
+      "vertical_energy": "Focused and determined",
+      "challenge_vibes": "Pushing limits, epic effort"
+    }
+  },
+  "🧗‍♂️": {
+    "def": "man climbing - tags: bouldering",
+    "context": {
+      "climb_bro": "Strong, adventurous energy",
+      "vertical_mode": "Focused and determined",
+      "challenge_vibes": "Epic effort, pushing limits"
+    }
+  },
+  "🧗‍♀️": {
+    "def": "woman climbing - tags: bouldering",
+    "context": {
+      "climb_queen": "Adventurous, focused energy",
+      "vertical_vibes": "Determined and strong",
+      "challenge_mode": "Epic, pushing limits"
+    }
+  },
+  "🤺": {
+    "def": "person fencing - tags: none",
+    "context": {
+      "fence_mode": "Sharp, strategic energy",
+      "duel_vibes": "Focused and precise",
+      "combat_energy": "Agile, quick thinking"
+    }
+  },
+  "🏇": {
+    "def": "horse racing - tags: none",
+    "context": {
+      "race_mode": "Fast, competitive energy",
+      "equestrian_vibes": "Focused and agile",
+      "winning_energy": "Dynamic and thrilling"
+    }
+  },
+  "⛷️": {
+    "def": "skier - tags: none",
+    "context": {
+      "ski_mode": "Swift, balanced energy",
+      "snow_vibes": "Focused and adventurous",
+      "winter_energy": "Fast, flowing, confident"
+    }
+  },
+  "🏂": {
+    "def": "snowboarder - tags: none",
+    "context": {
+      "board_mode": "Cool, edgy energy",
+      "snow_vibes": "Fun, confident, adventurous",
+      "freestyle_energy": "Flowing and stylish"
+    }
+  },
+  "🏌️": {
+    "def": "person golfing - tags: none",
+    "context": {
+      "golf_mode": "Calm, precise energy",
+      "swing_vibes": "Focused and measured",
+      "green_energy": "Relaxed but skilled"
+    }
+  },
+  "🏌️‍♂️": {
+    "def": "man golfing - tags: none",
+    "context": {
+      "golf_bro": "Focused, precise energy",
+      "swing_mode": "Calm and skilled",
+      "green_vibes": "Confident and relaxed"
+    }
+  },
+  "🏌️‍♀️": {
+    "def": "woman golfing - tags: none",
+    "context": {
+      "golf_queen": "Precise and focused energy",
+      "swing_mode": "Calm, confident, skilled",
+      "green_vibes": "Relaxed but powerful"
+    }
+  },
+  "🏄": {
+    "def": "person surfing - tags: none",
+    "context": {
+      "surf_mode": "Chill, adventurous energy",
+      "wave_vibes": "Flowing and confident",
+      "beach_energy": "Fun, balanced, stylish"
+    }
+  },
+  "🏄‍♂️": {
+    "def": "man surfing - tags: none",
+    "context": {
+      "surf_bro": "Confident, chill energy",
+      "wave_mode": "Flowing and stylish",
+      "beach_vibes": "Adventurous and relaxed"
+    }
+  },
+  "🏄‍♀️": {
+    "def": "woman surfing - tags: none",
+    "context": {
+      "surf_queen": "Chill, confident energy",
+      "wave_mode": "Flowing and balanced",
+      "beach_vibes": "Fun and adventurous"
+    }
+  },
+  "🚣": {
+    "def": "person rowing boat - tags: none",
+    "context": {
+      "row_mode": "Strong, rhythmic energy",
+      "water_vibes": "Focused and steady",
+      "oar_energy": "Determined and powerful"
+    }
+  },
+  "🚣‍♂️": {
+    "def": "man rowing boat - tags: none",
+    "context": {
+      "row_bro": "Steady, strong energy",
+      "water_mode": "Focused and determined",
+      "oar_vibes": "Powerful, rhythmic motion"
+    }
+  },
+  "🚣‍♀️": {
+    "def": "woman rowing boat - tags: none",
+    "context": {
+      "row_queen": "Strong, rhythmic energy",
+      "water_mode": "Focused and confident",
+      "oar_vibes": "Determined and steady"
+    }
+  },
+  "🏊": {
+    "def": "person swimming - tags: none",
+    "context": {
+      "swim_mode": "Fluid, energetic vibes",
+      "water_vibes": "Focused and agile",
+      "fitness_energy": "Strong, steady motion"
+    }
+  },
+  "🏊‍♂️": {
+    "def": "man swimming - tags: none",
+    "context": {
+      "swim_bro": "Agile, strong energy",
+      "water_mode": "Focused and fluid",
+      "fitness_vibes": "Steady, powerful motion"
+    }
+  },
+  "🏊‍♀️": {
+    "def": "woman swimming - tags: none",
+    "context": {
+      "swim_queen": "Fluid, strong energy",
+      "water_mode": "Focused and agile",
+      "fitness_vibes": "Powerful and steady"
+    }
+  },
+  "⛹️": {
+    "def": "person bouncing ball - tags: basketball",
+    "context": {
+      "ball_mode": "Energetic, athletic vibes",
+      "court_vibes": "Focused and agile",
+      "sport_energy": "Dynamic, fast-paced"
+    }
+  }
+}
