@@ -4,14 +4,14 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Emoji Translator</title>
+    <title>Emojify</title>
         <link rel="stylesheet" href="./style.css">
         <!-- FIXME: Add favicon if we want one. -->
         <!-- <link rel="icon" href="./favicon.ico" type="image/x-icon"> -->
     </head>
     <body>
         <main>
-            <h1>Emoji Translator</h1>
+            <h1>Emojify</h1>
 
             <table>
                 <thead>
@@ -37,6 +37,7 @@
             <br>
             <button onclick="handleTranslate()" type="button">Translate</button>
         </main>
-        <script src="main.js"></script>
+        <!-- Cache-bust main.js to ensure latest logic is loaded -->
+        <script src="main.js?v=20251015" defer></script>
     </body>
 </html>

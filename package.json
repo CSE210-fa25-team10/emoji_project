@@ -1,0 +1,11 @@
+{
+  "name": "emoji-translator",
+  "version": "1.0.0",
+  "description": "A simple emoji to text translator",
+  "scripts": {
+    "test": "node tests/run_tests.js"
+  },
+  "keywords": ["emoji", "translator"],
+  "author": "CSE210-fa25-team10",
+  "license": "MIT"
+}
