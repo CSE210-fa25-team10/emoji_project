@@ -53,6 +53,8 @@ Note: Outputs depend on the current mappings in `emoji-dictionary.json`. If you 
 ```
 emoji_project/
 ├── README.md                # documentation
+├── emojify-logic-walkthrough# video explaining the logic of emojify
+├── emojify-demo-walkthrough # video showcasing a demo of emojify
 ├── emoji-dictionary.json    # dataset
 ├── emoji.json               # reference dataset (didn't use)
 ├── package.json             # npm config for CLI test script
